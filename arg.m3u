@@ -2348,7 +2348,6 @@ https://nd106.republicaservers.com:4433/hls/elcaletense/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Eltres_RGB-grad_%28positivo%29.png/153px-Eltres_RGB-grad_%28positivo%29.png" group-title="SANTA FE", EL TRES ROSARIO
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/C3RH/playlist.m3u8
 
- 
 #EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065070449598611456/96wwvlty.jpg" group-title="SANTA FE", TELEFE ROSARIO 
 https://smt-usr-edge02.sensa.com.ar/output/ARR2/TelefeRosarioH/playlist.m3u8
 
@@ -2386,7 +2385,7 @@ https://channel.gotv.ar:1936/GOTV/GOTV.stream/playlist.m3u8
 https://panel.host-live.com:19360/linktv/linktv.m3u8
 
 #EXTINF:-1 tvg-logo="https://nuevomundotv.com.ar/images/logonm.svg" group-title="SANTA FE", NUEVO MUNDO CANAL 10
-https://tecnica.nuevomundotv.com.ar:446/hls/canal10_480p1128kbs/index.m3u8
+https://tecnica.nuevomundotv.com.ar:446/hls/canal10_720p1900kbs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ivisiontv.ar/images/sitio/logo.png" group-title="SANTA FE" , IVISION TV
 https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8 
@@ -2410,7 +2409,7 @@ https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="SANTA FE", CORREA RADIOVISION
-http://arcast.net:1935/correadigital/canal12/playlist.m3u8
+https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
@@ -2439,8 +2438,8 @@ https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://veonoticias.com/wp-content/themes/cablevideo/img/veonoticias.svg" group-title="SANTA FE", Veo Santo Tomé 2CTV 
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
 
 
 
