@@ -2506,9 +2506,6 @@ https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-----M.png" group-title="RADIO - SANTA FE", Radio Eme 96.3 FM Santa Fe
 https://stmvideo3.livecastv.com/emenuevo/emenuevo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-----M.png" group-title="RADIO - SANTA FE", Radio Eme 96.3 FM Santa Fe
-https://stmvideo3.livecastv.com/emenuevo/emenuevo/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://redtl.com.ar/resources/img/logo.png" group-title="RADIO - SANTA FE", Red TL 105.5 FM Rosario
 https://nd106.republicaservers.com/redtlrosario.mp4
 
