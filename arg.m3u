@@ -2378,6 +2378,9 @@ https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.gotv.ar/images/gotvLogo.png" group-title="SANTA FE", GO TV FIRMAT
 https://channel.gotv.ar:1936/GOTV/GOTV.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
+
 #EXTINF:-1 tvg-logo="https://linktvcanal.com/wp-content/uploads/2017/07/logo.png" group-title="SANTA FE", LINK TV
 https://panel.host-live.com:19360/linktv/linktv.m3u8
 
@@ -2399,17 +2402,14 @@ https://vivo.solumedia.com:19360/playtv/playtv.m3u8
 #EXTINF:-1 tvg-logo="https://tdconline.com.ar/wp-content/uploads/2022/05/online.png" group-title="SANTA FE", TDC TV SANTA FE
 https://vivo.solumedia.com:19360/tves/tves.m3u8
 
+#EXTINF:-1 tvg-logo="https://veonoticias.com/wp-content/themes/cablevideo/img/veonoticias.svg" group-title="SANTA FE", Veo Santo Tomé 2CTV 
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/595606877175689216/x0mTiDts.jpg" group-title="SANTA FE", CABLE IMAGEN ARMSTRONG SANTA FE
 https://stream.arcast.com.ar/casse/casse/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://66.media.tumblr.com/f1138b6d236d9787c1960cdd1ae51b26/tumblr_inline_polydyA71Z1ttmwm1_1280.png" group-title="SANTA FE", CORREA RADIOVISION
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
-https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://vivetv.com.ar/imagenes/logo_vivetv_web.png" group-title="SANTA FE", VIVE TV FUNES SANTA FE
-https://smt-usr-edge01.sensa.com.ar/output/SMT4/VIVED/output.mpd
 
 #EXTINF:-1 tvg-logo="https://canal3tacural.com.ar/wp-content/uploads/2023/05/cropped-logo_canal3tacural.jpg" group-title="SANTA FE", CANAL 3 TACURAL
 https://canal3tacural.site:4443/hls/canal3_hd.m3u8
@@ -2432,8 +2432,7 @@ https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://veonoticias.com/wp-content/themes/cablevideo/img/veonoticias.svg" group-title="SANTA FE", Veo Santo Tomé 2CTV 
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_720p/index.m3u8
+
 
 
 
