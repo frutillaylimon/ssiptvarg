@@ -2444,6 +2444,13 @@ https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://www.sol915.com.ar/wp-content/uploads/2021/12/logosolplay-x1-mobile-22.png" group-title="RADIO - SANTA FE", SOL 91.5 SANTA FE    
 https://stream.arcast.live/sol915/ngrp:sol915_all/playlist.m3u8
 
@@ -2459,14 +2466,11 @@ https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiowox.com.ar/wp-content/uploads/2022/01/logo2.png" group-title="RADIO - SANTA FE", WOX ROSARIO 88.3 FM
 https://vivo.solumedia.com:19360/woxfm/woxfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rosarioclasica.com/images/logo.png" group-title="RADIO - SANTA FE", Radio Rosario Clásica 90.7 fm
-https://inliveserver.com:1936/9012/9012/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4g27tlK6xUCZPU2gg0YLmowSupgh94zva-UjvKfiWA7tUXaODPtTRVgwwZpjhUR74cY" group-title="RADIO - SANTA FE", FM PANAMERICANA 105.7 RUFINO
 https://5f700d5b2c46f.streamlock.net/panamericana/panamericana/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1332294278710702080/1drhVHxF_400x400.jpg" group-title="RADIO - SANTA FE", RADIO CASILDA 91.1 FM SANTA FE
-https://tecnica.nuevomundotv.com.ar:446/hls/radiocasilda_480p1128kbs/index.m3u8
+https://tecnica.nuevomundotv.com.ar:446/hls/radiocasilda.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1367145670524751874/BdMfLDDi_400x400.jpg" group-title="RADIO - SANTA FE", 1330 AM ROSARIO
 http://nd106.republicaservers.com/hls/mariatti/index.m3u8
@@ -2512,6 +2516,12 @@ https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 
 #EXTINF:-1 tvg-logo="http://radiodenoticias.com.ar/12-2024/ae4f73881256157dde4368da76642b92.jpg" group-title="SANTA FE", Noticias 91.9 FM Santa Fe
 https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://radiodenoticias.com.ar/12-2024/ae4f73881256157dde4368da76642b92.jpg" group-title="SANTA FE", Noticias 91.9 FM Santa Fe
+https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="SANTA FE", Radio Costa 88.9 FM Alejandra
+https://videohd.live:19360/8098/8098.m3u8
 
 
 
