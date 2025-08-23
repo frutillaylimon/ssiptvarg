@@ -2460,7 +2460,7 @@ https://stmvideo3.livecastv.com/fm10funes/fm10funes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lt9.com.ar/assets/img/lt9id.png?r=1" group-title="RADIO - SANTA FE", LT9 AM 1150 SANTA FE
 https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1622530748866502659/0B1HWjGI_400x400.jpg" group-title="RADIO - SANTA FE", RADIO RAFAELA DIGITAL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1622530748866502659/0B1HWjGI_400x400.jpg" group-title="RADIO - SANTA FE", Rafaela 1470 AM Rafaela 
 https://tv.streamcasthd.com:3215/live/radiorafaelalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiowox.com.ar/wp-content/uploads/2022/01/logo2.png" group-title="RADIO - SANTA FE", WOX ROSARIO 88.3 FM
@@ -2473,7 +2473,7 @@ https://5f700d5b2c46f.streamlock.net/panamericana/panamericana/playlist.m3u8
 https://tecnica.nuevomundotv.com.ar:446/hls/radiocasilda.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1367145670524751874/BdMfLDDi_400x400.jpg" group-title="RADIO - SANTA FE", 1330 AM ROSARIO
-http://nd106.republicaservers.com/hls/mariatti/index.m3u8
+https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO - SANTA FE", MAS FM 95.9 SANTA FE  
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
@@ -2508,19 +2508,19 @@ https://stmvideo3.livecastv.com/emenuevo/emenuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redtl.com.ar/resources/img/logo.png" group-title="RADIO - SANTA FE", Red TL 105.5 FM Rosario
 https://nd106.republicaservers.com/redtlrosario.mp4
 
-#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", Cdna Regional 96.5 FM Máximo Paz
+#EXTINF:-1 tvg-logo="https://redtl.com.ar/resources/img/logo.png" group-title="RADIO - SANTA FE", Red TL 105.5 FM Rosario
+https://nd106.republicaservers.com/hls/redtlrosario/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="RADIO - SANTA FE", Cdna Regional 96.5 FM Máximo Paz
 https://vivo.solumedia.com:19360/argento/argento.m3u8
 
-#EXTINF:-1 tvg-logo="https://solumedia.com.ar/radios/8390/v2/img/logo.jpg" group-title="SANTA FE", Pop 96.1 FM Rosario
+#EXTINF:-1 tvg-logo="https://solumedia.com.ar/radios/8390/v2/img/logo.jpg" group-title="RADIO - SANTA FE", Pop 96.1 FM Rosario
 https://vivo.solumedia.com:19360/canal3/canal3.m3u8
 
-#EXTINF:-1 tvg-logo="http://radiodenoticias.com.ar/12-2024/ae4f73881256157dde4368da76642b92.jpg" group-title="SANTA FE", Noticias 91.9 FM Santa Fe
+#EXTINF:-1 tvg-logo="http://radiodenoticias.com.ar/12-2024/ae4f73881256157dde4368da76642b92.jpg" group-title="RADIO - SANTA FE", Noticias 91.9 FM Santa Fe
 https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://radiodenoticias.com.ar/12-2024/ae4f73881256157dde4368da76642b92.jpg" group-title="SANTA FE", Noticias 91.9 FM Santa Fe
-https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="SANTA FE", Radio Costa 88.9 FM Alejandra
+#EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="RADIO - SANTA FE", Radio Costa 88.9 FM Alejandra
 https://videohd.live:19360/8098/8098.m3u8
 
 
