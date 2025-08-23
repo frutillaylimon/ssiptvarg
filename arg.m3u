@@ -2394,9 +2394,6 @@ https://6098feb5d2881.streamlock.net/live/canallocal.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalveo.com/wp-content/themes/cablevideo/img/canalveo.svg" group-title="SANTA FE" , VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n_360p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", CADENA REGIONAL ALCORTA
-https://vivo.solumedia.com:19360/argento3/argento3.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.12informa.com.ar/wp-content/uploads/2020/07/logocanal12.png" group-title="SANTA FE", CANAL 12 VENADO TUERTO
 https://nd106.republicaservers.com/hls/diegologonitv/index.m3u8
 
@@ -2483,8 +2480,6 @@ https://stream.trixserver.com:3343/live/uv073live.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiovozrosario.com/img/logo_1654005182.png" group-title="RADIO - SANTA FE", RADIO VOZ ROSARIO
 https://inliveserver.com:1936/17020/17020/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LT9.png" group-title="RADIO - SANTA FE", LT9 Brigadier Lopez 1150 AM Santa Fe
 https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
@@ -2509,7 +2504,8 @@ https://stmvideo3.livecastv.com/emenuevo/emenuevo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://redtl.com.ar/resources/img/logo.png" group-title="RADIO - SANTA FE", Red TL 105.5 FM Rosario
 https://nd106.republicaservers.com/redtlrosario.mp4
 
-
+#EXTINF:-1 tvg-logo="https://cadenaregional.com/wp-content/uploads/2021/11/logo-CR.png" group-title="SANTA FE", Cdna Regional 96.5 FM Máximo Paz
+https://vivo.solumedia.com:19360/argento/argento.m3u8
 
 
 
