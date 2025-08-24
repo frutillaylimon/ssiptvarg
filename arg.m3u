@@ -2276,10 +2276,10 @@ https://live.enhdtv.com:8081/concepto/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s176-c-k-c0x00ffffff-no-rj" group-title="SAN LUIS", SAN LUIS +
+#EXTINF:-1 tvg-logo="https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp" group-title="SAN LUIS", SAN LUIS +
 https://stream.radiosmundiales.com:19360/sanluismas/sanluismas.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s176-c-k-c0x00ffffff-no-rj" group-title="SAN LUIS", SAN LUIS +
+#EXTINF:-1 tvg-logo="https://sanluismas.com/wp-content/uploads/2024/03/logo-sl.webp" group-title="SAN LUIS", SAN LUIS +
 https://stream.radiosmundiales.com:19360/sanluismas/1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="SAN LUIS", CANAL 2 SAN LUIS
