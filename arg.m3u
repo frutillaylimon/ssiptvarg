@@ -933,7 +933,7 @@ https://nd106.republicaservers.com/hls/skerk4747/index.m3u8
 https://panel.host-live.com:19360/8012/8012.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canal4teleaire.com.ar/wp-content/uploads/2022/07/logo-canal-4.png" group-title="AMBA", CANAL 4 TELEAIRE
-https://stmvideo6.livecastv.com/canal4/canal4/chunklist_w1094603161.m3u8
+https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3de378_8d767ca44c814fbebb80ee05c368dadc~mv2.png/v1/fill/w_103,h_30,al_c,q_85,usm_2.00_1.00_0.00,enc_auto/Nuevo%20proyecto.png" group-title="AMBA", X LEVEL TV
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
@@ -953,17 +953,8 @@ https://tv.streamcasthd.com:3536/live/siontvlive.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/enlace.png" group-title="AMBA", ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lavozargentina.tv/assets/images/logolavozargentina.png" group-title="AMBA", LA VOZ ARGENTINA
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/lavozargentina/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_npWJ8k6oWxC9-BYXB6IANAnxtTsWY8MKLgBdxBHF8N190=s160-c-k-c0x00ffffff-no-rj" group-title="AMBA", TELEVISION 33
-https://tuvideoonline.com.ar:3703/stream/play.m3u8
-
 #EXTINF:-1 tvg-logo="https://tvcanal72.com.ar/wp-content/uploads/2022/08/LOGO-CANAL-72-1-1536x384.png" group-title="AMBA", CANAL 72
 https://stmv1.voxtvhd.com.br/canal72tv2/canal72tv2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdTs6iKqkfPAmQJfJIT3fjY6fX6_O_XeZT2w&s" group-title="AMBA", SUEÑOS GROUP TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/suenosgrup/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://teveodigital.tv/wp-content/uploads/2022/07/logoweb.png" group-title="AMBA", TEVEO DIGITAL
 https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
@@ -971,17 +962,10 @@ https://stmvideo1.livecastv.com/tvo/tvo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlJdHzp2wLYBncDTew0M_zvN4CjDBr-AEuRw&s" group-title="AMBA", ESPACIO FABRIK
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKjx6Fjt4m-jxQ35q-d2KbWvceEz3QUXAP2HtyrzkbpEs44VaDPtec3ykNwz5ju3z5DZM&usqp=CAU" group-title="AMBA",  M21
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/m21puramusica/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----GP.png" group-title="AMBA",  GP DIARIOS
 https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/deshojandotango.com.ar/wp-content/uploads/2020/11/logo.png?fit=253%2C113&ssl=1" group-title="AMBA",  DESHOJANDO TANGO
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/deshojandotango/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1696_Videoclub.png" group-title="AMBA",  VIDEOCLUB
-https://videostream.shockmedia.com.ar:19360/videoclub/videoclub.m3u8
 
 
 
@@ -1074,9 +1058,6 @@ https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
 https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
-
-#EXTINF:-1 tvg-logo="h" group-title="AMBA",  GP 88.9 FM San Miguel
-https://nd106.republicaservers.com:4433/hls/c7328/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
