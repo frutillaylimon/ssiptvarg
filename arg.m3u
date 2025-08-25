@@ -1547,7 +1547,7 @@ https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 https://inliveserver.com:1936/12058/12058/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEc2bnJpXYBs50v7pbsoyQzCIGE2B7sjuTg&s" group-title="CORDOBA", COVISAR
-https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8  
 
 #EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
