@@ -991,7 +991,7 @@ https://videostream.shockmedia.com.ar:19360/murktv/murktv.m3u8
 https://videostream.shockmedia.com.ar:19360/fmtrujui/fmtrujui.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.santiagoycopla.com.ar/assets/images/logo-trans-107x107.png" group-title="RADIO-AMBA", LA 1130 AM SANTIAGO Y COPLA - G LAFERRERE
-https://panel.host-live.com:19360/santiagoycopla/santiagoycopla.m3u8
+https://panel.host-live.com:19360/8140/8140.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiojai.com/wp-content/uploads/2021/01/logo_jai_celeste-1.png" group-title="RADIO-AMBA", 96.3 RADIO JAI
 https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
@@ -1012,7 +1012,7 @@ https://tv.streamcasthd.com:3338/live/radiotradicional1340live.m3u8
 https://streamlov.alsolnet.com/okfm/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fm891.com.ar/wp-content/uploads/2020/07/logo_horizontal_20.png" group-title="RADIO-AMBA", FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
-https://s8.stweb.tv/unlam/video2/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/unlam/unlam/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmradiociudad.com/layout/arriba2025.jpg" group-title="RADIO-AMBA", RADIO CIUDAD 91.1 FM MERLO
 https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
@@ -1020,29 +1020,20 @@ https://vivo.solumedia.com:19360/radiociudad/radiociudad.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s83607/images/logod.jpg?t=157062" group-title="RADIO-AMBA", CADENA 1470 AM LANUS
 https://stmvideo1.livecastv.com/am1470/am1470/chunklist_w162601086.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
-https://stream.trixserver.com:3733/live/uv005live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
-https://videohd.live:19360/8124/8124.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.koaradio.net/index_htm_files/4.jpg" group-title="RADIO-AMBA", RADIO KOA RAFAEL CASTILLO
 https://panel.host-live.com:19360/koatv/koatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png" group-title="RADIO-AMBA", SONIDO SUR
-https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="RADIO-AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
-https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kDPCvojQb2E/X_Q5MnzksRI/AAAAAAAAJGk/SGon23v2K3UO2gI7MIFoSiNkSxYULDN4ACK4BGAYYCw/s1600/345.png" group-title="RADIO-AMBA", RADIO ROCHA AM 1570 LA PLATA
-https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTsiDJp0h8G6NfEKGVGlL0Y6Al9lbSRzZmQ&s" group-title="RADIO-AMBA", RADIO AMEP
-https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINUEHOR.png" group-title="RADIO-AMBA", Nuevos Horizontes  107.5 FM Villa de Mayo
 https://inliveserver.com:1936/9000/9000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TT.png" group-title="RADIO-AMBA", Trend Topic
+https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
+https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.galactica.com.ar/assets/images/697027-ico-256x256.webp" group-title="RADIO-AMBA", RADIO GALACTICA
+https://videostream.shockmedia.com.ar:19360/galactica/galactica.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmradiocristal.com.ar/wp-content/uploads/2024/01/faroles3-72p-e1706111437126.png" group-title="RADIO-AMBA", RDN Cristal 94.9 FM
 https://5f700d5b2c46f.streamlock.net/cristal/cristal/playlist.m3u8
@@ -1053,11 +1044,18 @@ https://video1.makrodigital.com/laradiodetodos/laradiodetodos/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.subteradio.com.ar/wp-content/uploads/2024/03/logo-300x298.png" group-title="RADIO-AMBA", Subteradio 101.7 FM 
 https://tv.streamcasthd.com:3944/live/jorgemendezlive.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----TT.png" group-title="RADIO-AMBA", Trend Topic
-https://nd106.republicaservers.com:4433/hls/c7423/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
+https://videohd.live:19360/8124/8124.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOLEIL.png" group-title="RADIO-AMBA", Soleil 104.7 FM San Miguel
-https://nd106.republicaservers.com:4433/hls/c7546/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1267_Sonido_Sur.png" group-title="RADIO-AMBA", SONIDO SUR
+https://tv.streamcasthd.com:3553/live/sonidosurtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/a3ab912fa9960e91a32d82029b6f445e.png" group-title="RADIO-AMBA", DEMOS RADIO VISUAL VICENTE LOPEZ
+https://videostream.shockmedia.com.ar:19360/demosvisual/demosvisual.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTsiDJp0h8G6NfEKGVGlL0Y6Al9lbSRzZmQ&s" group-title="RADIO-AMBA", RADIO AMEP
+https://nd106.republicaservers.com:4433/hls/radioamep/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1120362148/fmlaboca_400x400.jpg" group-title="RADIO-AMBA", FM LA BOCA 90.1  (SOLO AUDIO)
 https://s24.myradiostream.com/14984/listen.mp3
