@@ -1726,9 +1726,6 @@ https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Canal_9_Litoral_2021.png/133px-Canal_9_Litoral_2021.png" group-title="ENTRE RIOS", CANAL 9 PARANA
 https://stream.arcast.live/canal9litoral/ngrp:canal9litoral_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/tOutn2AAanKRwVvKcECFHxcvIiTa1rbC59v2yGt_h3RBBkQj06GbIpFSnl3a4wFb14GkcZke3g=s176-c-k-c0x00ffffff-no-rj-mo" group-title="ENTRE RIOS", Somos Gualeguaychu
-https://tv.streamcasthd.com:3357/live/almagauchatvlive.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiocerofm.com/logo-ahora-cero.png" group-title="ENTRE RIOS", AHORA CERO RADIO
 https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 
@@ -1736,7 +1733,7 @@ https://stream.arcast.live/eldia/ngrp:eldia_all/playlist.m3u8
 https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
-http://181.13.173.86:8000/play/a09s/index.m3u8
+http://181.78.49.179:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
