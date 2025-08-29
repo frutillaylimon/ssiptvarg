@@ -2,4 +2,6 @@
 
 
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png", SENSA EVENTOS
-https://smt-usr-edge02.sensa.com.ar/output/ARR3/sensaeventosH/playlist.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/ARR3/sensaeventosH/output.mpd
+
+
