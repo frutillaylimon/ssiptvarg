@@ -814,6 +814,10 @@ http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lrtv.jaranetwork.com/sites/default/files/styles/poster/public/logos/monitv.jpg?itok=kFtbKZRm" group-title="INFANTIL", MONI TV
 https://tv.arkeo.cl:19360/8134/8134.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1200px-Billboard_logo.svg.png" group-title="MUSICA", BILLBOARD TV
+
+https://smt-usr-edge01.sensa.com.ar/output/SMT1/BLBD/output.mpd
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="INFANTIL", XTREMA CARTOON
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 
