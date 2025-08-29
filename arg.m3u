@@ -1683,7 +1683,7 @@ https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSp8dzUU2dG_DdZJblUl8ypI-U0Njq8x9hw&s" group-title="CORRIENTES", ACV MONTE CASEROS
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/streamavc/playlist.m3u8
+https://giatv.bozztv.com/giatv/giatv-digimediosstreamavc/digimediosstreamavc/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.yapeyucablecolor.com.ar/img/BANNER.png" group-title="CORRIENTES", Yapeyu Cable color
 https://videohd.live:19360/8094/8094.m3u8
@@ -1691,26 +1691,11 @@ https://videohd.live:19360/8094/8094.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvcinco.com/images/logo2.jpg" group-title="CORRIENTES", 5TV CORRIENTES
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/sancosmeonline.com.ar/wp-content/uploads/2020/08/Canal8.jpeg?w=796&ssl=1" group-title="CORRIENTES",CANAL 8 SAN COSME
-http://181.13.173.86:8000/play/a0aw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeobVZSUSlYfI0H8f9RkyWSbyRYwSURmJawqSVK65z2lW9yGdwe_ftCN8eGbwSQ6D87nsL9hy5xYu9Wgs442wtSHmF7kufYK31yb2vb-HdJhyLD-xW2NDzi5xCruhVuJ7lGtiO6vYPrvUF6ne78v2b4L-ccGsY4jJYvWaf_duyosiFvf28uyDXcVozh54/s445/Screenshot_2024-02-08_at_15-56-57_Litoral_Cable_Visi%C3%B3n-removebg-preview.png" group-title="CORRIENTES", LITORAL CABLEVISION LA CRUZ
-https://videohd.live:19360/8018/8018.m3u8
-
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Chamame-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" group-title="CORRIENTES", CHAMAME TV 
-https://srv2.zcast.com.br/chamame/chamame/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__ROPGPVBMhZtHuunBOtlXI_fT5kcm4H1whDW3rhxoHdIdW0bo4h3PFsUs9z8gv7CPqk&usqp=CAU" group-title="CORRIENTES", TELENORD CORRIENTES
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0CkOG9gutouKH8tjBZFmLBHY_KArzQfrP3A&usqp=CAU" group-title="CORRIENTES", TELEDIEZ PASO DE LOS LIBRES
-https://videohd.live:19360/8020/8020.m3u8
+https://srv4.zcast.com.br/chamametv/chamametv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/116524_Azahares_Radio_multimedia.png" group-title="CORRIENTES", RADIO AZAHARES FM 101.5 CORRIENTES
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAXITV.png" group-title="CORRIENTES", Maxima TV
-https://vivo.solumedia.com:19360/maximatv/maximatv.m3u8
 
 #EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2022/03/sin-logo-24-43-sin.png" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
 https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
