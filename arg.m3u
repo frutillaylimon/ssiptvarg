@@ -1469,7 +1469,7 @@ https://smt-usr-edge02.sensa.com.ar/output/ARR/Canal5GIGD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2521/CH_LOGO/800/542/0/0/38808379077146.png" group-title="CORDOBA" ,Canal Cooperativo Alicia
 https://smt-usr-edge01.sensa.com.ar/output/LVR/CCAD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="CORDOBA" ,CEOSCA-Camilo Aldao
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/K8Hd0MQh/ceosacaaa.png" group-title="CORDOBA" , CEOSCA-Camilo Aldao
 https://smt-usr-edge01.sensa.com.ar/output/NDS/CEOSCAH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2523/CH_LOGO/800/542/0/0/45821431071947.png" group-title="CORDOBA" , C20 Villa María
@@ -1538,9 +1538,6 @@ https://srv1.zcast.com.br/canal7arias/canal7arias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--IRTV.png" group-title="CORDOBA", Imagen Regional TV
 https://videohd.live:19360/8078/8078.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALEGTV.png" group-title="CORDOBA", ALEGRIA TV
-https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="CORDOBA", CEMDO TV
 https://inliveserver.com:1936/12058/12058/playlist.m3u8
 
@@ -1549,6 +1546,8 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
@@ -1561,6 +1560,8 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="RADIO-CORDOBA", RADIO COOP ONLINE
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
 https://smt-usr-edge01.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
@@ -1945,7 +1946,7 @@ https://panel.host-live.com:19360/8120/8120.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/canal12misiones.com/wp-content/uploads/2023/06/Recurso-3full-blanco.png?resize=224%2C300&ssl=1" group-title="MISIONES", CANAL 12 MISIONES
-https://cdn.sensa.com.ar/output/c12pos/playlist.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/c12pos/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.unam.edu.ar/templates/yootheme/cache/d5/COMUNIC-TRANSMEDIA-d54b2e85.png" group-title="MISIONES", UNaM TRANSMEDIA MISIONES
 http://192.100.186.53:8091/memfs/0c06fd5f-9b17-4834-83f3-8aca04e20736_output_0.m3u8?session=mXDDwNEhENbmjgvmJt3qDF
