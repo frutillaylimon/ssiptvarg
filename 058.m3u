@@ -4,14 +4,11 @@
 #EXTINF:-1 group-title="EVENTOS DEPORTIVOS" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/vod/vod/160/160/0/0/49923.png", SENSA EVENTOS
 https://smt-usr-edge01.sensa.com.ar/output/ARR3/sensaeventosH/output.mpd
 
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.ipuntotv.com/IMAGES/Construir-tv-logo.png",CONSTRUIR TV
-https://loadbalancer16.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
+
 
 #EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.ipuntotv.com/IMAGES/Construir-tv-logo.png",CONSTRUIR TV op2
 https://router.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
-#EXTINF:-1 group-title="CULTURALES" tvg-logo="https://www.ipuntotv.com/IMAGES/Construir-tv-logo.png",CONSTRUIR TV op3
-https://broker.cdn.rcs.net.ar/mnp/construiriptv/output.mpd
 
 
 #EXTINF:-1 group-title="INTERIOR AR" tvg-logo="https://4.bp.blogspot.com/-yF_rZsYlJ_g/UDLfCNKv8qI/AAAAAAAAVTY/TPxVVmPcw-Q/s1600/eldoce-hd-2012.png", CANAL 12 DE CORDOBA HD op2
