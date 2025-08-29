@@ -1440,10 +1440,11 @@ https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
 https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="CORDOBA" , Telediario TV
-https://github.com/azgaresncf/strm2hls/raw/refs/heads/main/streams/Telediario_Television_Argentina.m3u8
+https://router.cdn.rcs.net.ar/mnp/imperio/output.mpd
 
-#EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="CORDOBA" , Telediario TV
-https://access.cdn.rcs.net.ar/mnp/imperio/output.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEsLJDaWwPRRTuGVIhP52i3H0l-DbvhJquRMj2p9Glvg=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA" , Canal 2 Alta Gracia
 http://190.123.90.146:8000/play/a01z/index.m3u8
@@ -1547,8 +1548,6 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 
@@ -1560,8 +1559,6 @@ https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbLQi-n_QPuNNJp2q6bShw8AG1fYbjosehA&s" group-title="RADIO-CORDOBA", RADIO COOP ONLINE
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/RIO1TVH/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2541/CH_LOGO/800/542/0/0/35003362076629.png" group-title="CORDOBA", Vivencias TV
 https://smt-usr-edge01.sensa.com.ar/output/NDS/vivenciasH/playlist.m3u8
@@ -1599,8 +1596,7 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
-https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
+
 
 
 
