@@ -1739,10 +1739,7 @@ http://181.78.49.179:8000/play/a022
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
-http://66.128.32.245/output/iteltv/track_2_4500/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/JNodbQCAQfgECDfw5TwZt2H7F-dzLs81Ta7BEnECbxaQLJNQVLEbWXswRVg3ApwI9vRORZSaJIc=s176-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", ITEL CHAJARI ENTRE RIOS
-https://proxystream.iteltv.com.ar/output/iteltv/track_2_4500/playlist.m3u8
+https://proxystream.iteltv.com.ar/output/iteltv/track_0_3700/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://noticiasgualeguay.com/wp-content/uploads/2019/09/logocanal2-x2.png" group-title="ENTRE RIOS", CANAL 2 GUALEGUAY ENTRE RIOS
 https://stream.arcast.host:8443/gualeguay/gualeguay/playlist.m3u8
@@ -1762,11 +1759,8 @@ https://videostream.shockmedia.com.ar:19360/genesiscaseros/genesiscaseros.m3u8
 #EXTINF:-1 tvg-logo="https://multimediosmariagrande.com/multim.png" group-title="ENTRE RIOS", MULTIMEDIO MARIA GRANDE
 https://panel.host-live.com:19360/multimedioscam/multimedioscam.m3u8
 
-#EXTINF:-1 tvg-logo="https://canaldelasaldeas.com.ar/wp-content/uploads/2022/09/cropped-logocanalaldeas5.jpeg" group-title="ENTRE RIOS", CANAL 8 ALDEA BRASILEÑA
-https://cs3.voxhd.com.br/11890/11890/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Zm0uYnJhc2lsZXJhX3NjcmVlbl8wXzE1OTEwNjA4MzFfMDkw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="ENTRE RIOS", LA NUEVA FM BRASILERA 106.7 ENTRE RIOS
-https://cs1.xcast.com.br/7662/7662/playlist.m3u8
+https://cs3.voxhd.com.br/11398/11398/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pk5swcxrnuk2.png" group-title="ENTRE RIOS", ORO VERDE FM 104.5  
 https://cs3.voxhd.com.br/11096/11096/playlist.m3u8
