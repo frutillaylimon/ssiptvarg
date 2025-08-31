@@ -1901,8 +1901,8 @@ https://stmvideo1.livecastv.com/fmpucara/fmpucara/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMmZXUMTPaLjslA4b0_5Jq-J1re_XruOWA0uqV5fuBiOZJCwYCKQtrZtMZsanXU4w8R8-fiLHPfOJ70pRcB7FZdBJs_KD5S8bSUTwGbvCrOzL9L5QOdDlYhquReKtiOH3I5SJBtoBnbQo1_L8leA1oj1q1ZEv0aV6vD9Mvq3RPtYeD-yOjelQHIL3GLRk/s200-rw/large.242828769_ElSieteMendoza.png.4a00e8a203d1058a5898ebce876d7d19.png" group-title="MENDOZA", SIETE MENDOZA
+https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/Playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
@@ -1921,6 +1921,9 @@ https://vivo.solumedia.com:19360/otrasvoces/otrasvoces.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hectorbonarrico.com/wp-content/uploads/2020/06/gg-1.png" group-title="MENDOZA", KINGDOM TV HD  19.1  MENDOZA 
 https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3Pnfjp1HzcPzAgS15umLYoD-xS5r9zLOo32iHrbcESBkGAbhM9HPdt03OqhyPbuQrSm4cedH-Z5mH3mYOObXteVkRcwipd6MracOsllNO9KZ9Q47p2RjtqYVi9ypmwqPZH1r8kV-2xeHA6tRxDHtAL0sTxsSATqO3l-bWchYQBKmETks4s2GTTIvPsI/s400/410842216_691085393171856_4843831681155509231_n.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
+https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
 https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
@@ -2159,6 +2162,8 @@ https://panel.host-live.com:19360/8160/8160.m3u8
 
 
 
+
+
 #EXTINF:-1 tvg-logo="https://albardonnoticia.com.ar/wp-content/uploads/2025/07/logo.png" group-title="SAN JUAN", ALBARDON TV
 https://vd01.streaminghd.net.ar:3814/stream/play.m3u8
 
@@ -2370,8 +2375,8 @@ https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHCRNRMrMNKQOpu0iYCA6UktkJyHRB04fRP2AQMK2tmifxzQAuKTq8oNfNmUgpF8Va_DB2h5_eI61xFZpRFhLfuV1MfQNTaWznb4q1Mi8wTbQeo60xl8m84G01B3oCjcXjZo7_uQWuyoUXn-nxSs_zhWAQuRn98qxxL0f01eErNbWK7c25WQCwUM1P-o/s200-rw/amrez8xvti7qszmwoorl.png" group-title="SANTA FE", VEO SANTA FE
+https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
 
 
 
