@@ -1055,6 +1055,9 @@ https://tv.streamcasthd.com:3944/live/jorgemendezlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.subteradio.com.ar/wp-content/uploads/2024/03/logo-300x298.png" group-title="RADIO-AMBA", Subteradio 101.7 FM 
 https://inliveserver.com:1936/12076/12076/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="RADIO-AMBA", fm SOLEIL 107.7 fm san miguel
+https://nd106.republicaservers.com/hls/c7546/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.templefm.com.ar/img/PORTADA2.jpg" group-title="RADIO-AMBA", TEMPLE FM 93.3 HAEDO
 https://videohd.live:19360/8124/8124.m3u8
 
@@ -1121,6 +1124,9 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2501/CH_LOGO/800/542/0/0/45581772073270.png"  group-title="PCIA BS AS", Punta Alta Visión
 https://smt-usr-edge01.sensa.com.ar/output/SMT2/CEPATVD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1552046129801580548/aPHfyis0_400x400.jpg" group-title="PCIA BS AS", CANAL 8 MAR DEL PLATA
+https://smt-usr-edge01.sensa.com.ar/output/SMT2/C8MPD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Mar-de-Plata-en-vivo-Online-.png" group-title="PCIA BS AS", CANAL 10 MAR DEL PLATA
 https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal10mdq-100044_720p.m3u8
@@ -1394,10 +1400,17 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="CHACO", CANAL 11 MACHAGAI
 https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIzSPZH5oVdI7794doVcrhARGyGoWfRTaYxUYS8OajGPLjjqW0fFXJSKSVTQQ4FGJ0LMrgv494oDTJ2biQdUC91R4s0UjocK9WNxDjjYMlK-u5jvvMj3IDYDxuialJa4haTzjLAzOx8Qtzty3vH28Y_TL2Clg9xT1NJGMBgOUP_-HVihpJc-eU-u0obo/s157/480840343_1471827070457221_6814453925279834309_n-removebg-preview.png" group-title="CHACO", STC SAENZ PEÑA
+https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFmhcsAHB1B0Tm7L4NAtF5z6qir95LzkmwBP3g9cnQDWCy6GfWP2BcIs9N0PrcekBaPMaPmRuWwnTBfYwmzxM4_JTm12D1uSBOiCWhmaCoj1HtOGXLC88LWxf5alO3hn1K2wcUvbgW7yi3lScXlc4KWNrelzLFE1MCykP6iRaVdzvACsXj3T1nzqXqy18/s200-rw/454205030_925201679620350_6044802362000667493_n.png" group-title="CHUBUT", CANAL 7 CHUBUT
+http://200.121.48.17:8000/play/a0cr/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qXJ-xwncwjeLmvCpg_0pcFFOX2rnPDVO8l5TEwIbxHGBTGTLLdKWEWljWt0gndnzwA8&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
@@ -1600,11 +1613,11 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT3/GRD/output.mpd
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2540/CH_LOGO/800/542/0/0/29838770078011.png" group-title="CORDOBA", Canal 11 Oliva
 https://smt-usr-edge01.sensa.com.ar/output/NDS/OlivaH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="CORDOBA",TvCoop Suardi
+#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2534/CH_LOGO/800/542/0/0/86198033078075.png" group-title="CORDOBA", TvCoop Suardi
 https://smt-usr-edge01.sensa.com.ar/output/ARR3/SADD/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
-https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFWnzgxX9DmjletzDKXRtLfMyd-B_Qgn0JMhNlzu8L3xvH3Vuz_bc2CEpZ3QKiC7ZaO809Kx7uS1I_qDiE08FnaVeHiOt3KhAnYLzAAJDyh1Adb1N5PpPtZZkP94bVUzl_LZioqxRkLVg6VIRfk6B7cG2IsdCYbs5PdGjhU7NTB6a3TZ6mLigEEmoJqB4/s200-rw/teuc.png" group-title="CORDOBA", Teleco Ucacha
+https://smt-usr-edge01.sensa.com.ar/output/SMT4/TelecoUcachaD/output.mpd
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1820/CH_LOGO/160/160/0/0/64370533077571.png" group-title="CORDOBA", COOPLUS
 https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
@@ -1616,8 +1629,8 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
+https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmmaslacarlota.com.ar/img/logo_1643643551.gif" group-title="RADIO-CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
@@ -1626,7 +1639,7 @@ http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
 https://panel.host-live.com:19360/canal907/canal907.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO-CORDOBA", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
-https://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
+https://streamyes.alsolnet.com/goodradio/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/979373619263524864/JmC3rvJB.jpg" group-title="RADIO-CORDOBA", 95.5 FM OK ARROYITO CORDOBA
 https://stmv5.livecastv.com/griffa/griffa/playlist.m3u8
@@ -1710,8 +1723,8 @@ http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://fmrockandpopgoya.com.ar/web/wp-content/uploads/2022/03/sin-logo-24-43-sin.png" group-title="CORRIENTES", Rock & Pop 102.5 FM Goya
 https://videostream.shockmedia.com.ar:19360/canallavoztv/canallavoztv.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFRTVcnmmAkoZQNZhY0vnolhXk83DdMskL2gdSN1UFwNePMNHAYTu6jPfmqfEwbNiC1ZOiRMJ4VBSGoJySEYXkdEB0E5r44iNtqKrCzzP1Wwy7YPOaKvAHL6zl29x8JGdgChwO2uJqNzwyeYaDJ8PsDsvRRUUpuHvD3ULJRUUNxt0UoEz_YLqdwcO8R4E/s200-rw/54537430079017.png" group-title="CORRIENTES", El Sauce TV
+https://smt-usr-edge02.sensa.com.ar/output/ARR3/ElSauceTVD/output.mpd
 
 
 
@@ -1732,6 +1745,9 @@ http://181.78.49.179:8000/play/a022
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
 https://access.cdn.rcs.net.ar/faster/ertv_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjngcSG6sz4E3dEgOJEjSGFQ8RyEgaXftWM4yHXTBFSOIhW2DIUtgsTvC0JC1EN-ZoSWRGQwTUYgTBzrN09UORNHm87rPKq2zHMXIhujl25sdxgtSrvHyuhByi2MCQsENtZS4GT4GtGUsm15iT4A_b9HTOSalxUMjEfHA-NqfbKnMnL6WFTH6iOsg68T7E/s200-rw/logo-remansotv.png" group-title="ENTRE RIOS", Canal 6 ERTV
+https://access.cdn.rcs.net.ar/faster/remansotv_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
