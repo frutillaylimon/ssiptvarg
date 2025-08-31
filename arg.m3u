@@ -1730,6 +1730,9 @@ https://stmvideo6.livecastv.com/canal4nogoya/canal4nogoya/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
 http://181.78.49.179:8000/play/a022
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/29LLOBq7__7PRwaEyRju5pEd0LH8Zo3Q4wQw7Ccs91ppfs_J00Yg4Me8-s-Al-HzKAYg4LHa=s160-c-k-c0x00ffffff-no-rj" group-title="ENTRE RIOS", Canal 6 ERTV
+https://access.cdn.rcs.net.ar/faster/ertv_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/49365f_c6a2a1b6003947269f4ca8d79fdf0472~mv2.jpg/v1/fill/w_102,h_102,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/logo%20107_5%205_jfif.jpg" group-title="ENTRE RIOS", RMU PARANA
 https://vivo.solumedia.com:19360/rmuenvivo/rmuenvivo.m3u8
 
