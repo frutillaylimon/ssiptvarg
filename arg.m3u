@@ -762,7 +762,7 @@ http://181.13.252.102:8000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-plus-este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Plus
 http://201.217.246.177:8000/play/a06p/index.m3u8
 #EXTINF:-1 tvg-id="ar#hbo-family-hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Family
-http://181.209.95.29:8000/play/a06r/index.m3u8
+http://181.13.252.102:8000/play/a06r/index.m3u8
 #EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Pop
 http://201.217.246.177:8000/play/a09m/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" audio-track="spa" group-title="HBO-UNIVERSAL", HBO Xtreme
@@ -776,7 +776,7 @@ http://201.217.246.177:8000/play/a02c/index.m3u8
 http://45.5.150.5:8887/play/UNIVERSALPREMIERE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/60dStMuZCfyo3DqEMD0RFa/aa4713364373db825f7983a2086890b5/universal-cinema.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Cinema
-http://45.5.150.5:8887/play/UNIVERSALPREMIERE2/index.m3u8
+http://80.80.91.195:8000/play/a0a9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/3E162p4ysAkaik0txYYN0k/66dc9be0cc3d18c163e5d9f1f8b97b78/universal-comedy.png?fm=webp&q=80" group-title="HBO-UNIVERSAL" , Universal Comedy
 http://45.5.150.5:8887/play/UNIVERSALCOMEDY/index.m3u8
