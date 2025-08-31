@@ -904,8 +904,11 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-1 tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg" group-title="AMBA", QUANTICA TV  16.3
 https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" group-title="AMBA", KAIROS TV 16.4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhME3O23_lKc2d1B4kvUVrFLzWUJvYYqqBkKBwTv1wP-ybE9lQN_YhhSUAm-uDg9Pqpr40ViItPzyiepTZ5igK03_gA6SZxUmFPuCg61N_zlgBXNDVYvkQTC5rkXcD9OrQX2DKFXGE_X66xirAi9a0XtvsrM19pB7k6ZHSh0PXZvXWdZBbfrlYx9oj36OA/s200-rw/481363039_590148983921581_3743281490410201113_n.png" group-title="AMBA", LA PODEROSA
 https://videostream.shockmedia.com.ar:19360/kairostv/kairostv.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5sUzO2MRJIdvZHhLyQM-vFFuWYF68BsyGdQ&s" group-title="AMBA", KAIROS TV 16.4
+https://tuvideoonline.com.ar:3215/live/lapoderosalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal22web.com/wp-content/uploads/2024/05/LOGO-CANAL-REBORDE-BLANCO-1.2.png" group-title="AMBA", CANAL 22 WEB
 https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
