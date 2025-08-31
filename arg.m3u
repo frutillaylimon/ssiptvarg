@@ -235,9 +235,6 @@ https://val04.ride.com.ar/tvmia/an67/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.perfil.com/img/minisitios/econocanal/logo.png?v=1" group-title="NOTICIAS NACIONALES", CANAL E
 https://unlimited1-saopaulo.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS
-https://joy.nx-pc.edge-apps.net/hls/hlo1k-hpi35-b12io-9ik48.m3u8
-
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26
 http://181.10.181.101:15001/play/a05x/index.m3u8
 
@@ -2398,8 +2395,7 @@ https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQHCRNRMrMNKQOpu0iYCA6UktkJyHRB04fRP2AQMK2tmifxzQAuKTq8oNfNmUgpF8Va_DB2h5_eI61xFZpRFhLfuV1MfQNTaWznb4q1Mi8wTbQeo60xl8m84G01B3oCjcXjZo7_uQWuyoUXn-nxSs_zhWAQuRn98qxxL0f01eErNbWK7c25WQCwUM1P-o/s200-rw/amrez8xvti7qszmwoorl.png" group-title="SANTA FE", VEO SANTA FE
-https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
+
 
 
 
