@@ -1,4 +1,6 @@
 #EXTM3U   
 
-#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
-https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9.m3u8
+#EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 7
+https://joy.nx-pc.edge-apps.net/hls/m4lf3-ad2jd-672pb-a46k9_720p/index.m3u8
+
+
