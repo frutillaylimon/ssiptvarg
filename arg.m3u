@@ -1716,6 +1716,9 @@ https://vivo.solumedia.com:19360/telemedia/telemedia.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", T5 SATELITAL
 https://stream.t5satelital.blog/hls/t5satelital.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKYx-hvzqop-DMKwpBLQJozqWUTjiQAr-J3mlZA7Gw=s900-c-k-c0x00ffffff-no-rj" group-title="CORRIENTES", CANAL G CORRIENTES
+http://181.78.27.128:12543/play/a063/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/814_TeleNord.png" group-title="CORRIENTES", TeleNord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
