@@ -27,3 +27,6 @@ https://cdn1.videok.pro/hls3/01/00000/,tmsudh5v8ht9_l,tmsudh5v8ht9_n,tmsudh5v8ht
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 35X09
 https://cdn1.videok.pro/hls3/01/00000/,t2vfa5abz01w_l,t2vfa5abz01w_n,t2vfa5abz01w_h,t2vfa5abz01w_x,lang/spa/t2vfa5abz01w_spa,.urlset/index-f1-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 35X10
+https://cdn1.videok.pro/hls3/01/00000/,h62lxkwxemqz_l,h62lxkwxemqz_n,h62lxkwxemqz_h,h62lxkwxemqz_x,lang/spa/h62lxkwxemqz_spa,.urlset/index-f2-v1-a1.m3u8
