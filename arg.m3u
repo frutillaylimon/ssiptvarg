@@ -2045,7 +2045,8 @@ https://5f700d5b2c46f.streamlock.net/open1017/open1017/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULLYfM1JeQOjwcOEZKkSxvW-Hmf83XKgS1A&s" group-title="MISIONES", La Voz del Pueblo 98.9 FM Posadas
 https://manage.lineasdns.com:19360/v-lvdp/v-lvdp.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://streaminglocucionar.com/portal/images/logos/tacuaridigital.png" group-title="MISIONES", Radio Tacuari 94.5 FM Posadas
+https://manage.lineasdns.com:19360/v-lvdp/v-lvdp.m3u8
 
 
 
@@ -2228,7 +2229,7 @@ https://videostream.shockmedia.com.ar:19360/radiolared/radiolared.m3u8
 https://videostream.shockmedia.com.ar:19360/onetv/onetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fm957.com.ar/Horizontal2.png" group-title="SAN JUAN", Concepto 95.7 FM San Juan
-https://live.enhdtv.com:8081/concepto/index.m3u8   
+https://live.enhdtv.com:8081/concepto/index.m3u8
 
 
 
@@ -2478,6 +2479,8 @@ https://nd106.republicaservers.com:4433/hls/c7410/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.radiocosta.com.ar/img/BANNER.png" group-title="RADIO - SANTA FE", Radio Costa 88.9 FM Alejandra
 https://videohd.live:19360/8098/8098.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh16hSKsbo73YHQMTouLYIsgjFGZKbqg55iDQ1-ukdlTuawW6R_Flu5eq-kJRensTZ3M5c7gLnc4KbcFZRV6hiUwobW5M0veCbxrUWumRu8H9Dh8aEzjRlncomFXH8KOKDHz2Ccd1m_gWzlAK8OUKDLchOTUfSrBYDaeOtMEPR9lxaDqm1pQo_3dpzZZZA/s200-rw/LOGO-PLAYME-TV-1-e1746724625651-150x150.png" group-title="RADIO - SANTA FE", Radio Vector 98.7 FM Rafaela
+https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
 
 
 
