@@ -1,9 +1,9 @@
 #EXTM3U   
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 34X01
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 34X02
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 28X01
+https://cdn1.videok.pro/hls3/01/00000/,p18buhxy8e9k_l,p18buhxy8e9k_n,p18buhxy8e9k_h,p18buhxy8e9k_x,lang/spa/p18buhxy8e9k_spa,lang/eng/p18buhxy8e9k_eng,.urlset/index-f2-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 28X02
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 34X03
 
