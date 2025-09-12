@@ -2644,11 +2644,7 @@ https://sonicaargentina.com.ar/ARCHIVOS/pelicula6.mp4
 
 
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="CINE",MEGACINE
-https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png" group-title="CINE" ,BOX CINEMA
-https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
 #EXTINF:-1tvg-logo="https://www.cableman.ru/sites/default/files/Romance_logo.png" group-title="CINE" ,ROMANCE CHANNEL
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/romance-channel/manifest.m3u8
@@ -2740,7 +2736,11 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/99d1f745bbde1c70f7199fc8c979cd6fa8fd51d920a654e40876f49764b4f701.png" group-title="CINE", Tigueritos TV
 https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" group-title="CINE",MEGACINE
+https://cnn.hostlagarto.com/megacinetv/mono.m3u8
 
+#EXTINF:-1tvg-logo="https://i.ibb.co/67cPJ3Lg/box-cinema.png" group-title="CINE" ,BOX CINEMA
+https://dr2t9f8nivbc6.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8
 
 
 
