@@ -65,10 +65,10 @@ http://201.217.246.177:8000/play/a078/index.m3u8
 http://201.217.246.177:8000/play/a02u/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 5
-http://190.96.112.22:9202/play/a078/index.m3u8
+http://190.104.67.135:234/play/a086/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 6
-http://190.96.112.22:9202/play/a0bc/index.m3u8
+http://190.104.67.135:234/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="Tango Sports", Tango Sports 7
 http://186.148.196.82:8001/play/a00p
@@ -128,7 +128,7 @@ https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 http://200.219.40.1:8000/play/a01m/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xdsxNVXq/609-Canal-Ciudad.png" group-title="NACIONALES" , CANAL DE LA CIUDAD
-http://190.96.112.22:9202/play/a06e/index.m3u8
+http://190.104.67.135:234/play/a07c/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://fotos.perfil.com/2024/03/04/trim/1280/720/caras-tv-1764928.jpg" group-title="NACIONALES", CARAS TV 
 https://unlimited1-saopaulo.dps.live/carastv/carastv.smil/playlist.m3u8
@@ -177,7 +177,7 @@ https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 https://g5.vxral-hor.transport.edge-access.net/b08/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/6bFkcbsklRXLeB2ajrnCl8/c5ccbf53c3ab168c6448fb76265d5778/canal-quiero-musica.png?fm=webp&q=80" group-title="NACIONALES" , Quiero Música
-http://143.0.67.77:8000/play/a02n/index.m3u8
+http://190.104.67.135:234/play/a06s/index.m3u8
 
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="NACIONALES", ARGENTINISIMA SATELITAL
 https://stream1.sersat.com/hls/argentinisima.m3u8
