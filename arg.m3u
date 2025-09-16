@@ -1687,6 +1687,9 @@ http://181.78.27.128:12543/play/a063/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/814_TeleNord.png" group-title="CORRIENTES", TeleNord
 https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.identidadcorrentina.com.ar/imgs/TVONLINE1.jpg" group-title="CORRIENTES", Canal 10 Goya
+https://tv.streamcasthd.com:3637/live/canal10goyalive.m3u8
+
 #EXTINF:-1 tvg-logo="https://elfolklorico.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-25-at-11.42.16.jpeg" group-title="CORRIENTES", EL FOLKLORICO
 https://stream.t5satelital.blog/hls/elfolklorico.m3u8
 
@@ -2120,6 +2123,12 @@ https://5f700d5b2c46f.streamlock.net/anotador/anotador/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/2866/CH_LOGO/800/542/0/0/11228946078364.png" group-title="RIO NEGRO", Coopetel TV - El Bolsón   
 https://smt-usr-edge01.sensa.com.ar/output/SMT4/CPTD/output.mpd
+
+#EXTINF:-1 tvg-logo="https://radiolapuntual.com.ar/images/logo.png" group-title="RIO NEGRO", La Puntual 97.1 FM Viedma
+https://inliveserver.com:1936/12018/12018/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://zerofm.com.ar/_astro/radiozerologo.2iQv7x2O.png" group-title="RIO NEGRO", Zero 94.5 FM Catriel 
+https://srv5.zcast.com.br/radiozero/radiozero/playlist.m3u8
 
 
 
