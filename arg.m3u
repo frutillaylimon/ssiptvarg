@@ -786,9 +786,6 @@ http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="INFANTIL", LOS SIMPSONS
 http://srv3.zcast.com.br/sim6al10/sim6al10/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://lrtv.jaranetwork.com/sites/default/files/styles/poster/public/logos/monitv.jpg?itok=kFtbKZRm" group-title="INFANTIL", MONI TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Billboard_logo.svg/1200px-Billboard_logo.svg.png" group-title="MUSICA", BILLBOARD TV
 https://smt-usr-edge01.sensa.com.ar/output/SMT1/BLBD/output.mpd
 
