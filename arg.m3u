@@ -1414,7 +1414,7 @@ https://videohd.live:19360/8046/8046.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", La Bocha 99.9 FM Puerto Madryn
 https://inliveserver.com:1936/12040/12040/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILBOCHA.png" group-title="CHUBUT", Paraiso 42 95.5 FM El Hoyo
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIPARA42.png" group-title="CHUBUT", Paraiso 42 95.5 FM El Hoyo
 https://inliveserver.com:1936/12048/12048/playlist.m3u8
 
 
