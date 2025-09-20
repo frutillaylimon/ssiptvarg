@@ -1118,13 +1118,13 @@ https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.canal3pinamar.com/webapp/imagenes/cn3.png" group-title="PCIA BS AS", CANAL 3 PINAMAR
 https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
-#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://yt3.googleusercontent.com/rMnYFGWeKU2VWzneAg_LFGnnBDCZ0VBv9A-d4k-if1jV8I9sqzyVVDCH2pBAQCN4DPgSY0sfgA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 2 TELPIN PINAMAR
+#EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://radiosargentina.com.ar/png/VI----T2.png" group-title="PCIA BS AS", CANAL 2 TELPIN PINAMAR
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1288596112761397249/EQcy0Iho.jpg" group-title="PCIA BS AS", CANAL 11 MAR DE AJO
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://radiosargentina.com.ar/png/VI-TV2BA.png" group-title="PCIA BS AS", CANAL 2 BALCARCE
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-TV2BA.png" group-title="PCIA BS AS", CANAL 2 BALCARCE
 https://videohd.live:19360/8064/8064.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cabletel.net.ar/wp-content/uploads/2022/05/Recurso-7.png" group-title="PCIA BS AS", CABLETEL CANAL 4 DE ZARATE
@@ -1169,7 +1169,7 @@ https://cp.panelchs.com:1936/8146/ngrp:8146_all/playist.m3u8
 #EXTINF:-1 tvg-logo="https://canalinmobiliario.tv/wp-content/uploads/2022/07/LOGO-Canal-Inmobiliario-1536x864.png" group-title="PCIA BS AS", CANAL INMOBILIARIO TV
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/PwVe30winK-bL-i_Ki0dKebLTZxSmH_TMouZT6uX8xaH3gPNtCHU7jxOstMbp4e8OWPyskS9gg=s176-c-k-c0x00ffffff-no-rj-mo" group-title="PCIA BS AS", EL SELLO TV MADARIAGA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTV12.png" group-title="PCIA BS AS", EL SELLO TV MADARIAGA
 https://elsellotv.com.ar:8443/hls/elsello_low.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ZzyhYcKJ_HJMfj839pObfH3Th3ux54tD_BM2VrY3inP8FbcqaPRXc-HjMORn15LrMfs=w600-h300-pc0xffffff-pd" group-title="PCIA BS AS", CANAL 15 DE CAMPANA
@@ -1193,10 +1193,13 @@ https://stmv5.livecastv.com/neccoagenda/neccoagenda/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2024/08/cropped-2024.png" group-title="PCIA BS AS", SEÑAL URBANA
 https://video.fiberfly.com.ar/stream/hls1/110106.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal2coronelpringles.com.ar/wp-content/uploads/2019/08/Canal-2_v2-2.png" group-title="PCIA BS AS", CANAL 2 CORONEL PRINGLES
+https://encoder-1a.reltid.com.ar/live/directo.m3u8
+
 #EXTINF:-1 tvg-logo="https://madmultimedios.com.ar/download/publicidades.imagen.85ca37af4521c2f4.696d6167656e2e706e67.png" group-title="PCIA BS AS", CANAL 5 TANDIL
 https://stmvideo1.livecastv.com/madmultimedios/madmultimedios/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQZScf2vGCoWiu40kFt6K-UBMCvX1CeZEAhUA&usqp=CAU" group-title="PCIA BS AS", CELTV CANAL 2 TORNQUIST
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICELTTV.png" group-title="PCIA BS AS", CELTV CANAL 2 TORNQUIST
 http://190.103.192.6:8080/hls/mystreamkey.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m_W7HXpQEYWXITAV7pYntsHnia-0AYn_qiIAQp48_i3w=s900-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", ECO TV TANDIL
@@ -1217,8 +1220,7 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="PCIA BS AS", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal2coronelpringles.com.ar/wp-content/uploads/2019/08/Canal-2_v2-2.png" group-title="PCIA BS AS", CANAL 2 CORONEL PRINGLES
-https://encoder-1a.reltid.com.ar/live/directo.m3u8
+
 
 
 
