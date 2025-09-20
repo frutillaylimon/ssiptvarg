@@ -1855,7 +1855,7 @@ https://videostream.shockmedia.com.ar:19360/grupomaxima/grupomaxima.m3u8
 https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/702081768405520384/FzPbHDMn_400x400.jpg" group-title="LA PAMPA", CPE TV LA PAMPA
-https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+https://g4.mc-slo.transport.edge-access.net/b05/ngrp:cpetv1-100187_all/cpetv1-100187_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.ldmtv.com.ar/vivo.jpg" group-title="LA PAMPA", LDM TV LA PAMPA
 https://smt-usr-edge01.sensa.com.ar/output/ARR2/Canal19LPD/output.mpd
