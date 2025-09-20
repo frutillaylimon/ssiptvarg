@@ -1426,10 +1426,10 @@ https://inliveserver.com:1936/12048/12048/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-http://190.96.112.22:9202/play/a0be/index.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
 
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
-https://smt-usr-edge01.sensa.com.ar/output/Canal8D/output.mpd
+https://smt-usr-edge02.sensa.com.ar/output/Canal8D/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="CORDOBA" , EL DOCE CORDOBA  
 https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
@@ -1438,7 +1438,7 @@ https://smt-usr-edge01.sensa.com.ar/output/Canal12D/output.mpd
 https://smt-usr-edge02.sensa.com.ar/output/Canal12D/output.mpd
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
-http://190.96.112.22:9202/play/a09x/index.m3u8
+https://smt-usr-edge01.sensa.com.ar/output/Canal10D/output.mpd
 
 #EXTINF:-1 tvg-id="Canal10Cordoba.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png/133px-Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="CORDOBA", CANAL 10 CORDOBA
 https://smt-usr-edge02.sensa.com.ar/output/Canal10D/output.mpd
@@ -1448,9 +1448,6 @@ https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR
 
 #EXTINF:-1 tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2vo7XIfCasCBkyOXDppqgH/0d1c4e3fece963dd9a2c3ed2d253cc3c/49_CANAL_Telediario-noticias.png?fm=webp&q=80" group-title="CORDOBA" , Telediario TV
 https://router.cdn.rcs.net.ar/mnp/imperio/output.mpd
-
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200-rw/SKYVISION%20TV.jpg" group-title="CORDOBA" , SKY VISION
-https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mEsLJDaWwPRRTuGVIhP52i3H0l-DbvhJquRMj2p9Glvg=s160-c-k-c0x00ffffff-no-rj" group-title="CORDOBA" , Canal 2 Alta Gracia
 http://190.123.90.146:8000/play/a01z/index.m3u8
@@ -1515,6 +1512,9 @@ https://audiov-srv2.rec.unrc.edu.ar/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1265_Tvmaxcba.png" group-title="CORDOBA", Tvmaxcba 
 https://stmvideo3.livecastv.com/tvmaxcba/tvmaxcba/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPA9-frGpTEVxzPdcOUwSQt7_zmPL59-7CNqwha0ySb5hF2DBnrCOUzgeUKMXhx-E33PYSe2fgNpF5PrrMAnuZtAv_cBQxV2u4rSn_GxvuGJa2koje2lBLQOeyMl6GF4pa1jUWWG7bgpTc_AQWpBbfbpZn9eFla7Q7hKKeobKPJDbqFnYqieqfLIjkm_8/s200-rw/SKYVISION%20TV.jpg" group-title="CORDOBA" , SKY VISION
+https://stmvideo3.livecastv.com/visionsky/visionsky/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913627349/telecondor_satelital_400x400.jpg" group-title="CORDOBA", CANAL 4 TELECONDOR
 https://stmvideo1.livecastv.com/telecondor/telecondor/playlist.m3u8
 
@@ -1537,7 +1537,7 @@ https://stmvideo3.livecastv.com/dannceteve/dannceteve/playlist.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.canalcoop.com.ar/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcanal-coop.d704a2e4.png&w=3840&q=75" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
-https://smt-usr-edge01.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mw40mdD19gLXwWvaZk08EfYeQhBr22_s9-7GaTbdW3XZQ=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 7 ARIAS
 https://srv1.zcast.com.br/canal7arias/canal7arias/playlist.m3u8
@@ -1546,7 +1546,7 @@ https://srv1.zcast.com.br/canal7arias/canal7arias/playlist.m3u8
 https://videohd.live:19360/8078/8078.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CEMDO.png" group-title="CORDOBA", CEMDO TV
-https://inliveserver.com:1936/12058/12058/playlist.m3u8
+https://inliveserver.com:1936/12058/12058/chunklist_w1489655392.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUEc2bnJpXYBs50v7pbsoyQzCIGE2B7sjuTg&s" group-title="CORDOBA", COVISAR
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8  
