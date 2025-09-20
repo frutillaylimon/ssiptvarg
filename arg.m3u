@@ -1094,7 +1094,7 @@ https://bvclive1.boldmss.com/EL_NUEVE/EL_NUEVE.isml/EL_NUEVE.mpd
 #EXTINF:-1 tvg-logo="https://www.canalsiete.com.ar/wp-content/uploads/2020/05/Logoweb_2021.png.webp" group-title="PCIA BS AS", CANAL 7 BAHIA BLANCA
 https://bvclive1.boldmss.com/CANAL_7/CANAL_7.isml/CANAL_7.mpd
 
-#EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC BAHIA BLANCA
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--4BVC.png" group-title="PCIA BS AS", BVC BAHIA BLANCA
 https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.mpd
 
 #EXTINF:-1 tvg-logo="http://pbs.twimg.com/profile_images/735615592665776128/usyzdWVo_400x400.jpg" group-title="PCIA BS AS", CANAL 2 MAR DEL PLATA
@@ -1112,8 +1112,11 @@ https://g4.mc-slo.transport.edge-access.net/a12/ngrp:canal10mdq-100044_all/canal
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="PCIA BS AS", POWER HD PINAMAR
 https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80665_Canal_3_Pinamar.png" group-title="PCIA BS AS", CANAL 3 PINAMAR
+#EXTINF:-1 tvg-logo="https://scontent.faep6-1.fna.fbcdn.net/v/t39.30808-6/490703890_724410553452077_4961077426471329158_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGn6Miws6LyOYYYYwLL3RgG19dvRm27s9fX129Gbbuz10Ofoo4nDThGB-DGCtH2DWc&_nc_ohc=7NrbvhoDCCkQ7kNvwFPs8AV&_nc_oc=AdlquDme0xHK3PELLaah7o-9pYLObdIeHjbHPhEA0v_tLdVJG1rMnfRiwWWMLmzBFTidEvruWJbE-v3O04A4RMvS&_nc_zt=23&_nc_ht=scontent.faep6-1.fna&_nc_gid=-cvSOLd_J1jmjQKq82AixQ&oh=00_AfZokBodPucQePz6yFvT3hbJ0J6cFnEoMKAxyz64YCeBTQ&oe=68D4D986" group-title="PCIA BS AS", MAS POSITIVO HD PINAMAR
 https://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canal3pinamar.com/webapp/imagenes/cn3.png" group-title="PCIA BS AS", CANAL 3 PINAMAR
+https://intelincloud01.com.ar/hls/cn3/index.m3u8
 
 #EXTINF:-1 tvg-id="TelpinTV.ar" tvg-logo="https://yt3.googleusercontent.com/rMnYFGWeKU2VWzneAg_LFGnnBDCZ0VBv9A-d4k-if1jV8I9sqzyVVDCH2pBAQCN4DPgSY0sfgA=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 2 TELPIN PINAMAR
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
@@ -3968,17 +3971,7 @@ https://stmvideo1.livecastv.com/tvsion/tvsion/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR
-https://wowza.telpin.com.ar:1935/camara-bypdomo/smil:camara-bypdomo.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", BUNGE Y LIBERTADOR PINAMAR
-https://wowza.telpin.com.ar:1935/camara-fuente/camara-fuente.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", OSTENDE Y LA RAMBLA PINAMAR
-https://wowza.telpin.com.ar:1935/camara-rambla/camara-rambla.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://miip.telpin.com.ar/imagenes/telpin-logo.png" group-title="WEB CAM Y CLIMA", PINAMAR GOLF 
-https://wowza.telpin.com.ar:1935/camara-golf/camara-golf.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 MAR DEL PLATA
 https://streamconex.com:19360/mardelplata/mardelplata.m3u8  
