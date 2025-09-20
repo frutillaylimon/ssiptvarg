@@ -1351,6 +1351,9 @@ https://videostream.shockmedia.com.ar:19360/factorylaverde/factorylaverde.m3u8
 #EXTINF:-1 tvg-logo="https://stcchaco.com/wp-content/uploads/2022/01/logo-STC-transp-158100.png" group-title="CHACO", STC Chaco 3CTV  Charata
 https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
 
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="CHACO", CANAL 11 MACHAGAI
+https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8?hls_ctx=71w8u9fm
+
 #EXTINF:-1 tvg-logo="https://laradio1047.com.ar/images/logo_top.png" group-title="CHACO", LA RADIO FM 104.7 FM RESISTENCIA CHACO
 https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 
@@ -1372,11 +1375,8 @@ https://glb.bozztv.com/glb/ssh101/maximafmchaco/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-IF-GL1j7RKI2vNaHYZcvPZ9NK2jjeh90PkRVx=s900-c-k-c0x00ffffff-no-rj" group-title="CHACO", TIV TRES ISLETAS CHACO
 https://videohd.live:19360/8008/8008.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C11M.png" group-title="CHACO", CANAL 11 MACHAGAI
-https://srv2.zcast.com.br/machagay/machagay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtIzSPZH5oVdI7794doVcrhARGyGoWfRTaYxUYS8OajGPLjjqW0fFXJSKSVTQQ4FGJ0LMrgv494oDTJ2biQdUC91R4s0UjocK9WNxDjjYMlK-u5jvvMj3IDYDxuialJa4haTzjLAzOx8Qtzty3vH28Y_TL2Clg9xT1NJGMBgOUP_-HVihpJc-eU-u0obo/s157/480840343_1471827070457221_6814453925279834309_n-removebg-preview.png" group-title="CHACO", STC SAENZ PEÑA
-https://genexservicios.com:19360/sudoestetv/sudoestetv.m3u8
+
 
 
 
