@@ -3995,14 +3995,44 @@ https://streamconex.com:19360/puan/puan.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/100571_Canal_79_Mar_del_Plata.png" group-title="WEB CAM Y CLIMA", CANAL 79 VILLA MAZA
 https://streamconex.com:19360/villamaza/villamaza.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 VILLA GESELL
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 (VISTA SUR)VILLA GESELL
 http://cam104y3.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 104 (VISTA NORTE) VILLA GESELL
+https://cam104.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 107 (VISTA NORTE) VILLA GESELL
+https://cam107norte.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AV 3 Y 107 (VISTA SUR) VILLA GESELL
+https://cam107sur.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", 112 Y PLAYA VILLA GESELL
+https://cam112yplaya.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", ACCESO NORTE HACIA CIUDAD VILLA GESELL
+https://camarco.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", ACCESO NORTE HACIA RP11 VILLA GESELL
+https://camarco2.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", AEROPUERTO VILLA GESELL
+https://camaeropuerto.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BS AS Y PLAYA VILLA GESELL
 http://cambsasyplaya.gesell.com.ar/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", LA PINOCHA VILLA GESELL
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", MAR DE LAS PAMPAS  VILLA GESELL
 http://camlapinocha.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", BOSQUE HISTORICO VILLA GESELL
+https://cambosque.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", FARO QUERANDI VILLA GESELL
+https://camfaro.gesell.com.ar/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.gesell.gob.ar/image/256/LOGO%20GESELL%20FB.png" group-title="WEB CAM Y CLIMA", MUELLE VILLA GESELL
+https://cammuelle.gesell.com.ar/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://eldiariodepringles.com.ar/images/ElDiario_LogoTop.png" group-title="WEB CAM Y CLIMA", MONTE HERMOSO
 https://encoder-1b.montevision.com.ar/hls/monte.m3u8
