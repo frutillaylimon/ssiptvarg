@@ -1915,9 +1915,6 @@ https://g4.proy-slo.transport.edge-access.net/a01/ngrp:canal7mendoza-100056_all/
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/80286_Canal_9_Televida_Mendoza.png" group-title="MENDOZA", CANAL 9 MENDOZA
 https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.latinatv.com.ar/online/wp-content/uploads/2021/03/logo-latina.png" group-title="MENDOZA", LATINA TV MENDOZA
-https://videostream.shockmedia.com.ar:19360/latinatv/latinatv.m3u8
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1318990468290646016/D65h3HYF_400x400.jpg" group-title="MENDOZA", JTA TV
 https://streaming.jtamendoza.com/hls/test_hd720.m3u8
 
@@ -1933,16 +1930,13 @@ https://play.nexolife.com:443/mendozaTV/7b7a53e239400a13bd6be6c91c4f6c4e.sdp/chu
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf3Pnfjp1HzcPzAgS15umLYoD-xS5r9zLOo32iHrbcESBkGAbhM9HPdt03OqhyPbuQrSm4cedH-Z5mH3mYOObXteVkRcwipd6MracOsllNO9KZ9Q47p2RjtqYVi9ypmwqPZH1r8kV-2xeHA6tRxDHtAL0sTxsSATqO3l-bWchYQBKmETks4s2GTTIvPsI/s400/410842216_691085393171856_4843831681155509231_n.png" group-title="MENDOZA", CANAL 8 VALLE DE UCO
 https://videostream.shockmedia.com.ar:19360/canal8/canal8.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/JBx_vll8WvdTTDiq-MvvZWMQ0Ky4DcbIq5iM4CwM95RSKpQBc-krcwQJzmvJGVfAZQ=w526-h296-rw" group-title="MENDOZA", MALBEC PLAY TV
-https://streamlov.alsolnet.com/malbecplay/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://auroraargentina.com/css//programas/Aurora.png" group-title="MENDOZA", AURORA ARGENTINA 91.3 
 https://live.enhdtv.com:19360/auroraradio/auroraradio.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.fmamadeus.com.ar/images/logo-amadeus.png" group-title="MENDOZA", FM AMADEUS 91.9 FM RIVADAVIA
 https://vivo.solumedia.com:19360/fmamadeus/fmamadeus.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ljMpm5QygT8Ame3qyY7vKYj5hxmB2NzrXFqTHyRZPhWDlPI23Uv-rkrbmd5fdYwXfXhSY54rtHE=s176-c-k-c0x00ffffff-no-rj" group-title="MENDOZA", RADIO DIAL SAN RAFAEL
+#EXTINF:-1 tvg-logo="https://dialradio.tv/wp-content/uploads/2024/04/DIAL-RADIO-LOGO-WEB.png" group-title="MENDOZA", RADIO DIAL SAN RAFAEL
 https://cda1.alsolnet.com/dialradiotv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.juninmendoza.gov.ar/wp-content/uploads/junin-municipalidad-logo-2020.png" group-title="MENDOZA", JARDIN FM MUNICIPAL 87.9 FM
