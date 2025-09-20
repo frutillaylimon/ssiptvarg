@@ -2429,13 +2429,10 @@ https://nd106.republicaservers.com/hls/mariatti/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/976314445034029056/oeLG0CBg.jpg" group-title="RADIO - SANTA FE", MAS FM 95.9 SANTA FE  
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Nn-cK0S7_4_pGQXM1SqbbDJfcHY0KtdKQrDxONaCjdZhkx_iMnNXT8RM3V5J9oCf2E8=w240-h480" group-title="SANTA FE", CADENA 2000 SAN GUILLERMO
-https://stream.trixserver.com:3343/live/uv073live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.radiovozrosario.com/img/logo_1654005182.png" group-title="RADIO - SANTA FE", RADIO VOZ ROSARIO
 https://inliveserver.com:1936/17020/17020/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---LT9.png" group-title="RADIO - SANTA FE", LT9 Brigadier Lopez 1150 AM Santa Fe
+#EXTINF:-1 tvg-logo="https://www.lt9.com.ar/wp-content/uploads/2024/10/logo_web_small.png" group-title="RADIO - SANTA FE", LT9 Brigadier Lopez 1150 AM Santa Fe
 https://inliveserver.com:1936/12060/12060/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI713.png" group-title="RADIO - SANTA FE", Zona 101.7 FM  Villa Constitución
@@ -2476,6 +2473,8 @@ https://videohd.live:19360/8098/8098.m3u8
 
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh16hSKsbo73YHQMTouLYIsgjFGZKbqg55iDQ1-ukdlTuawW6R_Flu5eq-kJRensTZ3M5c7gLnc4KbcFZRV6hiUwobW5M0veCbxrUWumRu8H9Dh8aEzjRlncomFXH8KOKDHz2Ccd1m_gWzlAK8OUKDLchOTUfSrBYDaeOtMEPR9lxaDqm1pQo_3dpzZZZA/s200-rw/LOGO-PLAYME-TV-1-e1746724625651-150x150.png" group-title="RADIO - SANTA FE", Radio Vector 98.7 FM Rafaela
 https://mediastore02.playme.com.ar/dash/CH_VECTOR/playlist.mpd
+
+
 
 
 
