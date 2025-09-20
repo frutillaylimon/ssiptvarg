@@ -2332,7 +2332,7 @@ https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1DymrJpASq8rn1h6U9Mk_AmYhVKiAXCLwMraGRDpkoejCdxR1sn5vmZFHyieK9KGhMsT-v53whkeQAEoaicQcbcFMzsQY9s49kQ4HCXB5IM5fc-nUxWoC0lfuERUvEAcX7_ZFhKEV4D85is4NqOnZAntcoQmPC6qjxlSKDPVYsn-BRk5p0rVlflPSg9c/s200-rw/logo_cana_5_television_del_pueblo-removebg-preview.png" group-title="SANTA FE", CANAL 5 DEL PUEBLO
 https://stmv4.voxtvhd.com.br/canal5pueblo/canal5pueblo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/U7e6Vw-P__t97f3CiFFgZ0P1bJd5RUdNA3ptCHwQcwSRAma-z7mu2ZPj7KSi3-EqHjv4ZRGD-w=s160-c-k-c0x00ffffff-no-rj" group-title="SANTA FE", CANAL 14 ELORTONDO
+#EXTINF:-1 tvg-logo="https://visualargentina.com.ar/wp-content/uploads/2024/09/14-800x450.jpg" group-title="SANTA FE", CANAL 14 ELORTONDO
 https://stmv2.voxtvhd.com.br/canal14tv2/canal14tv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.gotv.ar/images/gotvLogo.png" group-title="SANTA FE", GO TV FIRMAT
@@ -2380,9 +2380,6 @@ https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://margaritaweb.com.ar/wp-content/uploads/2024/10/logoGCvNg1V6j.png" group-title="SANTA FE", Canal 2DOS Margarita
 https://cs1.xcast.com.br/7584/7584/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://multimediosactiva.com.ar/wp-content/uploads/2024/11/LOGO-RADIO.jpg" group-title="SANTA FE", TV ACTIVA
-https://panel.host-live.com:19360/8062/8062.m3u8
-
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--CISC.png" group-title="SANTA FE", CISC Canal 4
 https://play.redcentro.org:8081/canal4sancristobal/indexc4sc.m3u8
 
@@ -2391,6 +2388,9 @@ https://stmv1.voxtvhd.com.br/generacionimpact/generacionimpact/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrjvYhsY71ReVa5idv_Eh6L3eSgb--ezNYubcUFFMxvIwjlDmJ8kONlp50oxrSEawdyI&usqp=CAU" group-title="SANTA FE", CONECTA MAS RADIO VGG
 https://inliveserver.com:1936/12038/12038/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--TVES.png" group-title="SANTA FE", TVES SJ DE LA ESQUINA
+https://vivo.solumedia.com:19360/tves/tves.m3u8
 
 
 
