@@ -1555,12 +1555,6 @@ https://smt-usr-edge01.sensa.com.ar/output/STAROSA/COVISARH/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CORDOBA", TEMPLE TV
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/TEMPLETVH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
-https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/MvVCaQ_ko0Xev4kzyFvX5eZ1Mzd2yGVh2ZJ3oDeXif0n_DYqA6cgjufJ31ZflJLMmAV1bq3vXQ=s160-c-k-c0x00ffffff-no-rj" group-title="RADIO-CORDOBA", Radio Alta Gracia 103.9
-https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIcMScHiLlcNckXa9v8XOX1UXJpProhCtdcQ&s" group-title="RADIO-CORDOBA", COSQUIN ROCK RADIO
 https://smt-usr-edge01.sensa.com.ar/output/ET-01/cosquinrock/master.m3u8
 
@@ -1607,10 +1601,11 @@ https://smt-usr-edge01.sensa.com.ar/output/SMT5/PORH/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIC3POPU.png" group-title="RADIO-CORDOBA", La Popu 92.3 FM
+https://smt-usr-edge01.sensa.com.ar/output/ET-01/popular/master.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="https://fmag1039.com.ar/wp-content/uploads/2024/05/radio-01.png" group-title="RADIO-CORDOBA", Radio Alta Gracia 103.9
+https://stmvideo3.livecastv.com/radioaltagracia/radioaltagracia/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh5.googleusercontent.com/proxy/_aN4zktvPEbP-Scx5PeZQBJOP6u4M1YIsZqx-BGXL7StulojSXG_8BPZ-oOwmNJHkGd-JotS7mMbQfuV4czWSOxZFQnFqIpYHQ" group-title="RADIO-CORDOBA", RADIO ACTIVA 95.3 FM LUQUE
 https://smt-usr-edge01.sensa.com.ar/output/STAROSA/LUQUETVH/playlist.m3u8
@@ -1657,7 +1652,7 @@ https://videostream.shockmedia.com.ar:19360/cadenaclub/cadenaclub.m3u8
 #EXTINF:-1 tvg-logo="https://www.lasrosas.com.ar/portal/wp-content/themes/lasrosas-v2/images/logo-grupolasrosas.svg" group-title="RADIO-CORDOBA", Las Rosas 105.5 TV Cordoba
 https://videostream.shockmedia.com.ar:19360/lasrosasonline/lasrosasonline.m3u8
 
-#EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2024/08/cropped-WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="RADIO-CORDOBA", Radio Mas 88.3 FM Huerta Grande
+#EXTINF:-1 tvg-logo="https://radiomas883.com.ar/wp-content/uploads/2025/04/WhatsApp-Image-2024-02-15-at-19.17.19-1.jpeg" group-title="RADIO-CORDOBA", Radio Mas 88.3 FM Huerta Grande
 https://videostream.shockmedia.com.ar:19360/radiomas883cordoba/radiomas883cordoba.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIESTURB.png" group-title="RADIO-CORDOBA", Urbana TV 97.5 FM Rio Tercero
