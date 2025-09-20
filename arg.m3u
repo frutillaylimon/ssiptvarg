@@ -1390,6 +1390,9 @@ https://videohd.live:19360/8008/8008.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFmhcsAHB1B0Tm7L4NAtF5z6qir95LzkmwBP3g9cnQDWCy6GfWP2BcIs9N0PrcekBaPMaPmRuWwnTBfYwmzxM4_JTm12D1uSBOiCWhmaCoj1HtOGXLC88LWxf5alO3hn1K2wcUvbgW7yi3lScXlc4KWNrelzLFE1MCykP6iRaVdzvACsXj3T1nzqXqy18/s200-rw/454205030_925201679620350_6044802362000667493_n.png" group-title="CHUBUT", CANAL 7 CHUBUT
 http://200.121.48.17:8000/play/a0cr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png" group-title="CHUBUT", CANAL 4 ESQUEL
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-qXJ-xwncwjeLmvCpg_0pcFFOX2rnPDVO8l5TEwIbxHGBTGTLLdKWEWljWt0gndnzwA8&usqp=CAU" group-title="CHUBUT", TELECINCO TRELEW
 https://videohd.live:19360/8016/8016.m3u8
 
