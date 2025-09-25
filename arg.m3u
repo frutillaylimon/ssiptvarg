@@ -2841,14 +2841,7 @@ https://172a014eac554c789ddc21bb0cc2185c.mediatailor.us-east-1.amazonaws.com/v1/
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 #EXTINF:-1 tvg-id="toon-goggles-en-espanol-0" tvg-name="toon-goggles-en-espanol-0" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/JyiWn41j_we7IY7BasG5bbwCOGmPPbiZJg6pljkcG4s.jpg" group-title="INFANTIL" , Toon Goggles en Español
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 tvg-id="masl-non-stop-247" tvg-name="masl-non-stop-247" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/masl-nonstop-16x9.jpg.jpg" group-title="DEPORTIVOS" , MASL Non-Stop 24/7
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4060
-#EXTINF:-1 tvg-id="lidom" tvg-name="lidom" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/1ctv_lidom-24-7_x2_16x9.jpg" group-title="DEPORTIVOS" , LIDOM
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6325
-#EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="power-nation-en-espanol" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="DEPORTIVOS" , Power Nation en Español
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
-#EXTINF:-1 tvg-id="itv-deportes" tvg-name="itv-deportes" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/CNv4Q30IOM7-ZUnfOeACh_4eGtl-2Whey5zBt4afg20.jpg" group-title="DEPORTIVOS" , ITV Deportes
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
+
 
 
 
@@ -2877,8 +2870,8 @@ https://d2ocvc6amhp1qj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-
-
+#EXTINF:-1 tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/logo/canelatv_thumbnail_1920x1080_v3.png" group-title="DEPORTIVOS" , Power Nation en Español
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationspanish-canelatv/playlist.m3u8?device_id=681a51ff7c9f7899879cd0ef2c474df1
 
 #EXTINF:-1 tvg-id="675c767406563ac6560ae104" tvg-name="675c767406563ac6560ae104" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/76d71ef3-ac50-4d01-99d0-16b35a58235c" group-title="DEPORTIVOS", SPEEDVISION
 https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
@@ -2886,17 +2879,11 @@ https://2b5e9aec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 tvg-id="67daf9a75b812f089f86b42e" tvg-name="67daf9a75b812f089f86b42e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/22addd67-1439-4ce9-9feb-318490edbe62" group-title="DEPORTIVOS", K-Baseball TV (KBO)
 https://amg02040-amg02040c10-freelivesports-emea-7496.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bc9450bec7ad1dd144e8" tvg-name="6675bc9450bec7ad1dd144e8" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="DEPORTIVOS", Court Sports Network
-https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="672a6a6a8e0fe64b11198015" tvg-name="672a6a6a8e0fe64b11198015" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/961caf5f-0495-4bfa-a239-da3eaafe891e" group-title="DEPORTIVOS", Moonball Sports TV
 https://amg18572-amg18572c1-freelivesports-emea-5549.playouts.now.amagi.tv/playlist/amg18572-moonballtv-moonballsportstv-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="67db1b3d8415591e5e093ef7" tvg-name="67db1b3d8415591e5e093ef7" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2cf051b6-a8b1-46ed-ac4c-2d0ef812dc90" group-title="DEPORTIVOS", Lucha Plus
 https://amg17334-amg17334c1-freelivesports-emea-7386.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6675c105dfa6f735be514aea" tvg-name="6675c105dfa6f735be514aea" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="DEPORTIVOS", Billiard TV
-https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="6675bf6cb464f958050c8dcc" tvg-name="6675bf6cb464f958050c8dcc" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3a13474e-b983-41c1-9ef1-0e11524eee06" group-title="DEPORTIVOS", Kozoom
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01743-sportstribal-kozoom-sportstribal/playlist.m3u8
@@ -2906,9 +2893,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstrib
 
 #EXTINF:-1 tvg-id="67ad38735451dfa36d3d3d1a" tvg-name="67ad38735451dfa36d3d3d1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/8280d034-d6c9-4628-83b9-9d0a6dda1095" group-title="DEPORTIVOS", GoPro
 https://3a1b4d927c02473b806350cc162d271f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-891-GOPRO-FREELIVESPORTS/mt/freelivesports/891/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="67b7c8b1f4706c72766e6e70" tvg-name="67b7c8b1f4706c72766e6e70" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a53b6f6-fe05-4354-9e41-40a5ef6f271f" group-title="DEPORTIVOS", AYM Sports
-https://api-ott.aymsports.com.mx/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="6761ec319b691191bc706e39" tvg-name="6761ec319b691191bc706e39" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/63fba2fd-ea9b-485f-bc45-44b1eef221a5" group-title="DEPORTIVOS", Pickle TV
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
@@ -2925,7 +2909,7 @@ https://7daa9e4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 #EXTINF:-1 tvg-id="6675bd20e1827c8af5d7a7c0" tvg-name="6675bd20e1827c8af5d7a7c0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/093d2e50-386f-4b8b-bc9e-d6ed59b9c5bc" group-title="DEPORTIVOS", Sports Illustrated TV
 https://60c273eb866445249cc34a0c01556572.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-235-CAMPUSLORE-SPORTS-SPORTSTRIBALTV/mt/sportstribaltv/235/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675b7bda139017a32428e74" tvg-name="6675b7bda139017a32428e74" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2" group-title="DEPORTIVOS"", SportsGrid
+#EXTINF:-1 tvg-id="6675b7bda139017a32428e74" tvg-name="6675b7bda139017a32428e74" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71403161-8f04-41b0-87dc-cd47d12767f2" group-title="DEPORTIVOS", SportsGrid
 https://sportsgrid-tribal.amagi.tv/hls/amagi_hls_data_sportstri-sportsgrid-sportstribal/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675c077b464f958050c8e7b" tvg-name="6675c077b464f958050c8e7b" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/e8c966f7-d28c-4bd9-822c-998e85489184" group-title="DEPORTIVOS", BLEAV Football
@@ -2955,32 +2939,17 @@ https://d1jl8oqlli7412.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="6675bbb3a139017a3242909e" tvg-name="6675bbb3a139017a3242909e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9fc17fec-6c99-4dc0-9fe5-abe85faeab49" group-title="DEPORTIVOS", RACER International
 https://amg00378-mavtv-amg00378c3-sportstribal-emea-1325.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675b91de1827c8af5d7a544" tvg-name="6675b91de1827c8af5d7a544" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/7a6ef117-9590-4c31-8ee1-6311a94973e3" group-title="DEPORTIVOS", Powersports World
-https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8
-
-#EXTINF:-1 tvg-id="666318a8a2498f66a3603397" tvg-name="666318a8a2498f66a3603397" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/6e20323d-b1cb-4b6f-b149-434179404b50" group-title="DEPORTIVOS", NHRA
-https://api-ott.nhra.tv/loggingmediaurlpassthrough/a.m3u8
-
-#EXTINF:-1 tvg-id="6675bae1d823954d12bb5b44" tvg-name="6675bae1d823954d12bb5b44" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/e1c40b46-8899-42be-9505-27431f558a9b" group-title="DEPORTIVOS", RPM Motorsport
-https://d1phlc8te2m7db.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RPM-SportsTribal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6675bb260b3aa44c6ed5f887" tvg-name="6675bb260b3aa44c6ed5f887" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/d97a2480-3d5e-41fe-8915-3a8d9643320a" group-title="DEPORTIVOS", AUTO ALLSTARS
 https://f959c2c3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlBdXRvQWxsU3RhcnNfSExT/playlist.m3u8
 
 #EXTINF:-1 tvg-id="66b0ebb38011e1206fab2931" tvg-name="66b0ebb38011e1206fab2931" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3ae62aeb-63b4-4f70-966b-16b0c39dd0c2" group-title="DEPORTIVOS", FloRacing
 https://amg02278-amg02278c1-freelivesports-emea-7535.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675bed4a2823e9a829eda97" tvg-name="6675bed4a2823e9a829eda97" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/8ab54914-7b55-44e7-8a17-614ccdda799a" group-title="DEPORTIVOS", Motorvision
-https://api-ott.motorvision.tv/loggingmediaurlpassthrough/a.m3u8
-
 #EXTINF:-1 tvg-id="6675b898581c77d305af1545" tvg-name="6675b898581c77d305af1545" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a1df54a3-e23a-4b0c-bf5e-158e7c02609e" group-title="DEPORTIVOS", Nitro Circus TV
 https://amg13231-actve-amg13231c1-sportstribal-emea-1265.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-sportstribalemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="687a783e928ee2ca866b7faa" tvg-name="687a783e928ee2ca866b7faa" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ea15b263-636c-4536-9a75-bde70ab88423" group-title="DEPORTIVOS", Tennis TV Classics
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="681a52869fef78f6ddd6753d" tvg-name="681a52869fef78f6ddd6753d" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1a25cdbc-b1bc-4974-ab62-8a7cd4a4b505" group-title="DEPORTIVOS", My Padel TV
-https://daiconnect.com/live/hls/tvup/sportsstudios-mypadeltv/.m3u8
 
 #EXTINF:-1 tvg-id="67e2fb3e548ae02169c017c4" tvg-name="67e2fb3e548ae02169c017c4" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/d16251f8-ff5b-4e36-be75-eb60aa43b0db" group-title="DEPORTIVOS", Pac 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
@@ -3021,26 +2990,11 @@ https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 #EXTINF:-1 tvg-id="6675bb584629276717291b17" tvg-name="6675bb584629276717291b17" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/98403785-3bba-4f7d-bee8-0eada4d790c8" group-title="DEPORTIVOS", MVMT Culture
 https://d15g7z5n3epv7t.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TheGrapplingNetwork-SportsTribal/236.m3u8
 
-#EXTINF:-1 tvg-id="6675bfec4c09eba5ff39e479" tvg-name="6675bfec4c09eba5ff39e479" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3162b767-e063-4875-af8e-42faf418eb80" group-title="DEPORTIVOS", Fite 24/7
-https://amg00348-amg00348c1-sportstribal-emea-4192.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-fite24x7-sportstribalemea/playlist.m3u8
-
 #EXTINF:-1 tvg-id="67acd478af7d4a4aef9c3354" tvg-name="67acd478af7d4a4aef9c3354" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/9cb9b4ff-2958-4179-bd0b-bc9a44888cc7" group-title="DEPORTIVOS", MMA TV
 https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6791796ab9c17f9469346be6" tvg-name="6791796ab9c17f9469346be6" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/2f902298-97ad-401b-b076-c3b8405dfa29" group-title="DEPORTIVOS", Inside Arm Wrestling
-https://onestudio.telos.indicue.com/stream.m3u8
-
-#EXTINF:-1 tvg-id="67fec250aad8e07622f57570" tvg-name="67fec250aad8e07622f57570" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/0a55bf25-a79a-44a0-bcdb-ca7f5d4f59fe" group-title="DEPORTIVOS", Lights Out Xreme Fighting
-https://api-ott.lightsoutsportstv.com/loggingmediaurlpassthrough/a.m3u8
-
 #EXTINF:-1 tvg-id="688295059924f9f6ea72dbe0" tvg-name="688295059924f9f6ea72dbe0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/af323f32-15cf-4c11-9d97-178ab8963992" group-title="DEPORTIVOS", Red Bull TV (Spain)
 https://76eb25c25d284d038e4a785c7c982f9d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORB-LATAM-ES-FAST-FREELIVESPORTS/957/freelivesports/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="66631a6b68357e70058f62ca" tvg-name="66631a6b68357e70058f62ca" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/fd886fd8-7b0a-4648-8868-e4160c5d8627" group-title="DEPORTIVOS", Surf Cinema
-https://amg13231-actve-amg13231c4-sportstribal-emea-1268.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-sportstribalemea/playlist.m3u8
-
-#EXTINF:-1 tvg-id="67b7c9a0d9391b69ebb03e1a" tvg-name="67b7c9a0d9391b69ebb03e1a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/bc7cc797-a20e-4ab4-b755-45cba4b82dc3" group-title="DEPORTIVOS", Cowboy Channel
-https://amg17292-amg17292c1-freelivesports-emea-6961.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675b9974c09eba5ff39e005" tvg-name="6675b9974c09eba5ff39e005" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/be5d5d67-3049-4ab3-829e-eadac9a1c986" group-title="DEPORTIVOS", InTrouble
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-introuble-sportstribal/playlist.m3u8
@@ -3051,12 +3005,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-freesportsinc
 #EXTINF:-1 tvg-id="6675ba96b9ab4742a8a8ccb5" tvg-name="6675ba96b9ab4742a8a8ccb5" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/0df7beee-d547-48fb-8e71-6d37c6e6ec6f" group-title="DEPORTIVOS", Unreel
 https://dd95c2f6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X0Nhc3RpZnlVbnJlZWxfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6793f38b28cc86e5b548fd1c" tvg-name="6793f38b28cc86e5b548fd1c" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ff01971a-cd73-44df-a2fb-d6b654e0fe87" group-title="DEPORTIVOS", Adventure Zone Sports Network
-https://onestudio.telos.indicue.com/stream.m3u8
-
-#EXTINF:-1 tvg-id="6849b955d58379ecd0a5371e" tvg-name="6849b955d58379ecd0a5371e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/57d1b830-bc09-482d-ae77-afe4477aabd8" group-title="DEPORTIVOS", DFB Play
-https://api-ott.dfbplay.tv/loggingmediaurlpassthrough/a.m3u8
-
 #EXTINF:-1 tvg-id="67f41e06811b7e0fb25171d1" tvg-name="67f41e06811b7e0fb25171d1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ac0d344a-220e-4964-8c32-e75269827783" group-title="DEPORTIVOS", Harlem Globetrotters
 https://32d0f0785a2a46d28117199f63ad73ea.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_TheHarlemGlobeTrotters/playlist.m3u8
 
@@ -3065,9 +3013,6 @@ https://d1nj4u39ja4cn0.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-id="6675b8bb2916d97ce3c66c0f" tvg-name="6675b8bb2916d97ce3c66c0f" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/9f28b472-3256-49bc-b27e-32638ceff5ce" group-title="DEPORTIVOS", Perfect Game TV
 https://6ebc93db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BlcmZlY3RHYW1lVFZfSExT/playlist.m3u8
-
-#EXTINF:-1 tvg-id="67193b14ebe91798e1df746e" tvg-name="67193b14ebe91798e1df746e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/1fd98f1d-6c51-4dd7-bcfa-708b89d93a0d" group-title="DEPORTIVOS", Premier League Lacrosse (Int')
-https://api-ott.tripleb.tv/loggingmediaurlpassthrough/a.m3u8
 
 #EXTINF:-1 tvg-id="6675c0bb7f512eb266c46f0f" tvg-name="6675c0bb7f512eb266c46f0f" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/49f28445-430e-4e7e-bd41-797c55bec694" group-title="DEPORTIVOS", Lacrosse Channel
 https://e9f5db0f59d6470c81af59545905e4e5.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-LacrosseChannel/LSN_SCTE.m3u8
@@ -3078,17 +3023,11 @@ https://bbb-aclco-freelivesports.otteravision.com/bbb/aclco/aclco.m3u8
 #EXTINF:-1 tvg-id="6675c17f073469c082cb2b03" tvg-name="6675c17f073469c082cb2b03" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/d3788f01-fb30-4115-b199-6cd822680176" group-title="DEPORTIVOS", Foosball TV
 https://amg00585-sportstribal-amg00585c2-sportstribal-emea-2176.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-foosballtv-sportstribalemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6791791920266258e85e39a1" tvg-name="6791791920266258e85e39a1" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/370dab72-9c75-4150-9fd5-59c7e9ae187f" group-title="DEPORTIVOS", World Chase Tag
-https://onestudio.telos.indicue.com/stream.m3u8
-
 #EXTINF:-1 tvg-id="6675be6a0485604f67e34186" tvg-name="6675be6a0485604f67e34186" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3cf9a158-a2c6-449b-8c16-cb61daa5ea2e" group-title="DEPORTIVOS", Strongman Champions League
 https://0864a05b1ca54a4e8fe73805bf810fa4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTribal-gb_StrongmanChampionsLeague/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6675b51e33d0e31efc11febd" tvg-name="6675b51e33d0e31efc11febd" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/403787aa-0d0a-440c-9056-84226a5c4a82" group-title="DEPORTIVOS", Horse & Country
 https://hncfree-sportstribal.amagi.tv/hls/amagi_hls_data_sportstri-hncfree-sportstribal/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="6675ba37b9ab4742a8a8cc85" tvg-name="6675ba37b9ab4742a8a8cc85" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/03aa563c-92e6-4bcb-8509-8760df887cb2" group-title="DEPORTIVOS", GCTV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-gctv-sportstribal/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6707d8a0e8c26b78203b9deb" tvg-name="6707d8a0e8c26b78203b9deb" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/48338028-9a53-4f65-ac05-1a48e5604ac9" group-title="DEPORTIVOS", Outdoor America
 https://3100d8a6ad764beb9da3c6ebf285ba1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-600-OUTDOORAMERICA-FREELIVESPORTS/mt/freelivesports/600/hls/master/playlist.m3u8
@@ -3117,9 +3056,6 @@ https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="6675b734a3f2191ee5161c2d" tvg-name="6675b734a3f2191ee5161c2d" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/71a84f5d-8c67-4d54-8a82-7854b9227914" group-title="DEPORTIVOS", Choppertown
 https://7d8dc76d676946ec8d372d4ed7b22333.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-SPORTSTRIBAL/mt/sportstribaltv/11/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="6675b93433d0e31efc120124" tvg-name="6675b93433d0e31efc120124" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c4708210-a3aa-41d8-b77d-456f3e52f7d2" group-title="DEPORTIVOS", Omstars TV
-https://amg00348-amg00348c2-sportstribal-emea-3159.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-omstars-sportstribalemea/playlist.m3u8
-
 #EXTINF:-1 tvg-id="6761eb6e560259210963313e" tvg-name="6761eb6e560259210963313e" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/dd0a200f-61af-4034-ac2e-0b338d583120" group-title="DEPORTIVOS", MORE U
 https://114933112aa649148b22f46d7798c6ce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_MoreU/playlist.m3u8
 
@@ -3137,9 +3073,6 @@ https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlis
 
 #EXTINF:-1 tvg-id="6717da0636dc92fb49346e64" tvg-name="6717da0636dc92fb49346e64" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/23e783cc-61c9-4cc4-b30f-bd7203fa4f62" group-title="DEPORTIVOS", Greatest Sports Legends & Laughs
 https://3db084d1dd6f49ecbf809a40d8a446b2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_GreatestSportsLegendsandLaughs/playlist.m3u8
-
-#EXTINF:-1 tvg-id="68114951dc7bfd176ab1044f" tvg-name="68114951dc7bfd176ab1044f" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/ba4bf3ca-a9ec-47dd-a089-5c68e7bb4d54" group-title="DEPORTIVOS", GINX TV
-https://amg00348-amg00348c3-freelivesports-emea-7552.playouts.now.amagi.tv/playlist/amg00348-dooyamediagroupinc-ginxtv-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 tvg-id="672a67138e0fe64b11195701" tvg-name="672a67138e0fe64b11195701" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/5dd7d490-69f5-4e11-b524-34a02662348c" group-title="DEPORTIVOS", Escape TV
 https://amg00585-amg00585c13-sportstribal-emea-5522.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-escapetv-sportstribalemea/playlist.m3u8
@@ -3162,21 +3095,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvemeaen-sportstri
 #EXTINF:-1 tvg-id="68a3a2dc90e4094f6286e55a" tvg-name="68a3a2dc90e4094f6286e55a" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a3efa855-6f58-41ec-bc4a-1c62b54f4b58" group-title="DEPORTIVOS", Drone TV
 https://a480c1a918694b47b63f7ba07a0f1dc2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/SportsTribal-eu_DroneTV/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/419614354158280704/WBvTLeRR.jpeg" group-title="DEPORTIVOS", PAC 12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/ossom.cl/wp-content/uploads/2020/03/red_bull_tv.jpg?fit=610%2C350&ssl=1" group-title="DEPORTIVOS", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTIVOS", Dubai Sports 1
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTIVOS", Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WE5puu1Kk8-lIoPDJwRjOj_0r6nQoRQTb3h8s7vGKoYtJhG-BpIMnwJWXAJDjBVBfAM" group-title="DEPORTIVOS", Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaT3gx26UVHbEUvVEyoBVsxTXAIK_9zzPX4Ux4TK=s900-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", TV Turf Movil
 https://tvturf4.janus.cl/playlist/stream.m3u8
