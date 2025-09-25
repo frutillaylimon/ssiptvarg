@@ -1,24 +1,4 @@
 #EXTM3U   
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 27X09
-https://cdn1.videok.pro/hls3/01/00000/,29b6nvx91c87_l,29b6nvx91c87_n,29b6nvx91c87_h,29b6nvx91c87_x,lang/eng/29b6nvx91c87_eng,lang/spa/29b6nvx91c87_spa,lang/cat/29b6nvx91c87_cat,.urlset/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 27X19
-https://cdn1.videok.pro/hls3/01/00000/,kvh2km031tp9_l,kvh2km031tp9_n,kvh2km031tp9_h,kvh2km031tp9_x,lang/cat/kvh2km031tp9_cat,lang/spa/kvh2km031tp9_spa,lang/eng/kvh2km031tp9_eng,.urlset/index-f2-v1-a1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 29X05
-https://cdn1.videok.pro/hls3/01/00000/,vvznh08e6iu8_l,vvznh08e6iu8_n,vvznh08e6iu8_h,vvznh08e6iu8_x,lang/spa/vvznh08e6iu8_spa,lang/eng/vvznh08e6iu8_eng,lang/cat/vvznh08e6iu8_cat,.urlset/index-f2-v1-a1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 31X01
-https://cdn2.videok.pro/hls3/01/00000/,ue0oupy12fg6_l,ue0oupy12fg6_n,ue0oupy12fg6_h,ue0oupy12fg6_x,lang/eng/ue0oupy12fg6_eng,lang/spa/ue0oupy12fg6_spa,lang/cat/ue0oupy12fg6_cat,.urlset/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 31X02
-https://cdn2.videok.pro/hls3/01/00000/,5dijvsl36a8i_l,5dijvsl36a8i_n,5dijvsl36a8i_h,5dijvsl36a8i_x,lang/eng/5dijvsl36a8i_eng,lang/spa/5dijvsl36a8i_spa,.urlset/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 31X05
-https://cdn2.videok.pro/hls3/01/00000/,mfxy6wig5wlk_l,mfxy6wig5wlk_n,mfxy6wig5wlk_h,mfxy6wig5wlk_x,lang/eng/mfxy6wig5wlk_eng,lang/cat/mfxy6wig5wlk_cat,lang/spa/mfxy6wig5wlk_spa,.urlset/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 31X06
-https://cdn2.videok.pro/hls3/01/00000/,6frko1q9y28o_l,6frko1q9y28o_n,6frko1q9y28o_h,6frko1q9y28o_x,lang/eng/6frko1q9y28o_eng,lang/cat/6frko1q9y28o_cat,lang/spa/6frko1q9y28o_spa,.urlset/index-f2-v1-a1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 31X16
-https://cdn1.videok.pro/hls3/01/00000/,wvq421gndc8u_l,wvq421gndc8u_n,wvq421gndc8u_h,wvq421gndc8u_x,lang/eng/wvq421gndc8u_eng,lang/cat/wvq421gndc8u_cat,lang/spa/wvq421gndc8u_spa,.urlset/index-f2-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/The_Simpsons_yellow_logo.svg/960px-The_Simpsons_yellow_logo.svg.png" group-title="LOS SIMPSONS", LOS SIMPSONS 33X06
 https://cdn2.videok.pro/hls3/01/00000/,y4p709ehbbh2_l,y4p709ehbbh2_n,y4p709ehbbh2_h,y4p709ehbbh2_x,lang/cat/y4p709ehbbh2_cat,lang/eng/y4p709ehbbh2_eng,lang/spa/y4p709ehbbh2_spa,.urlset/index-f2-v1-a1.m3u8
