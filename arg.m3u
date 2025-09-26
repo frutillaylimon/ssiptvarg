@@ -772,10 +772,11 @@ http://80.80.91.195:8000/play/a09v/index.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="CINE", CHOCHO TV
+http://190.97.183.98:8028/play/a0rs/index.m3u8
 
-
-
-
+#EXTINF:-1 tvg-logo="" group-title="CINE", COCO TV
+http://190.97.183.98:8028/play/a0q4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/4/f/f/4ffd587a23debd6faa287395b2485dab_icon.png" group-title="CINE", Free tv
 https://freetv.stream.olympusatmedia.com/index1080p/partial.m3u8
